@@ -45,6 +45,7 @@ states_selection = st.sidebar.multiselect('States:',
 
 if not states_selection:
     states_selection=['INDIA']
+    
 
 
 
@@ -65,8 +66,8 @@ mask = (df_unpivot['Ratio'].between(*ratio_selection)) & (df_unpivot['Year'].isi
 
 # mask1 = (df[' Primary (1 to 5)'].between(*ratio_selection)) & (df['Year'].isin(year_selection))&\
 # (df['States/Union Territories'].isin(states_selection))
-number_of_result = df[mask].shape[0]
-st.markdown(f'*Available Results: {number_of_result}*')
+# number_of_result = df[mask].shape[0]
+# st.markdown(f'*Available Results: {number_of_result}*')
 
 
 # --- GROUP DATAFRAME AFTER SELECTION.grou

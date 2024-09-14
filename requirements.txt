@@ -4,3 +4,9 @@ pandas==2.2.2
 plotly==5.24.0
 streamlit==1.38.0
 streamlit_folium==0.22.0
+snowflake-connector-python==3.12.2
+snowflake-ml-python==1.6.2
+snowflake-snowpark-python==1.22.1
+streamlit==1.38.0
+streamlit-folium==0.22.0
+

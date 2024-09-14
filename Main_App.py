@@ -19,6 +19,14 @@ project_2_page = st.Page(
     #icon=":material/smart_toy:",
 )
 
+project_3_page = st.Page(
+    "cortex_3.py",
+    title="Cortex",
+    #icon=":material/smart_toy:",
+)
+
+
+
 
 # --- NAVIGATION SETUP [WITHOUT SECTIONS] ---
 #pg = st.navigation(pages=[about_page, project_1_page, project_2_page])
@@ -27,7 +35,7 @@ project_2_page = st.Page(
 pg = st.navigation(
     {
         "Info": [about_page],
-        "Projects": [project_1_page, project_2_page],
+        "Projects": [project_1_page, project_2_page,project_3_page],
     }
 )
 
