@@ -1,0 +1,1006 @@
+﻿TITLE,IDENTIFIER
+Crude Birth Rate - India,DMCBRINABSGLA
+Total Population by Sex - India,DMPOPINABSGLA
+Crude Death Rate - India,DMCDRINABSGLA
+Infant Mortality Rate  - India,DMIMRINABSGLA
+Life Expectancy at Birth - India,DMLEBINABSGLA
+Median Age of Population - India,DMMEAINABSGLA
+Population Density - India,DMPODINABSGLA
+Total Fertility Rate - India,DMTFRINABSGLA
+Sex Ratio of the Total Population - India,DMSERINABSGLA
+"Percentage distribution of workers by usual employment status - All Areas, Both Genders - Helper in household enterprise",LAPLEMCATH11A
+"Percentage distribution of workers by usual employment status - All Areas, Both Genders - Own account employer",LAPLEMCATO11A
+"Percentage distribution of workers by usual employment status - All Areas, Both Genders - Regular wage, salaried",LAPLEMCATR11A
+"Percentage distribution of workers by usual employment status - All Areas, Both Genders - Self Employed",LAPLEMCATS11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Female - Helper in household enterprise",LAPLEMCRFH11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Female - Own account employer",LAPLEMCRFO11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Female - Regular wage, salaried",LAPLEMCRFR11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Female - Self Employed",LAPLEMCRFS11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Male - Casual labour",LAPLEMCRMC11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Male - Helper in household enterprise",LAPLEMCRMH11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Male - Own account employer",LAPLEMCRMO11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Male - Regular wage, salaried",LAPLEMCRMR11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Male - Self Employed",LAPLEMCRMS11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Both Genders - Casual labour",LAPLEMCRTC11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Both Genders - Helper in household enterprise",LAPLEMCRTH11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Both Genders - Regular wage, salaried",LAPLEMCRTR11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Both Genders - Self Employed",LAPLEMCRTS11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Female - Casual labour",LAPLEMCUFC11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Female - Helper in household enterprise",LAPLEMCUFH11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Female - Own account employer",LAPLEMCUFO11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Female - Regular wage, salaried",LAPLEMCUFR11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Female - Self Employed",LAPLEMCUFS11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Male - Helper in household enterprise",LAPLEMCUMH11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Male - Own account employer",LAPLEMCUMO11A
+"Average earnings per month for regular salaried workers - Female, Urban Areas",LAPLAESAFU11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Female - Casual labour",LAPLEMCRFC11A
+"Percentage distribution of workers by usual employment status - Rural Areas, Both Genders - Own account employer",LAPLEMCRTO11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Male - Casual labour",LAPLEMCUMC11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Male - Regular wage, salaried",LAPLEMCUMR11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Male - Self Employed",LAPLEMCUMS11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Both Genders - Casual labour",LAPLEMCUTC11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Both Genders - Helper in household enterprise",LAPLEMCUTH11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Both Genders - Own account employer",LAPLEMCUTO11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Both Genders - Regular wage, salaried",LAPLEMCUTR11A
+"Percentage distribution of workers by usual employment status - Urban Areas, Both Genders - Self Employed",LAPLEMCUTS11A
+"Labour Force Participation Rate - All Regions - Both Genders, All Age Groups",LAPLLPAAAG11A
+"Labour Force Participation Rate - All Regions - Both Genders, (15 - 59 years)",LAPLLPAAFF11A
+"Labour Force Participation Rate - All Regions - Both Genders, (15+ age)",LAPLLPAAFP11A
+"Labour Force Participation Rate - All Regions - Both Genders, (15 - 29 years)",LAPLLPAAFT11A
+"Labour Force Participation Rate - All Regions - Female, All Age Groups",LAPLLPAFAG11A
+"Labour Force Participation Rate - All Regions - Female, (15 - 59 years)",LAPLLPAFFF11A
+"Labour Force Participation Rate - All Regions - Female, (15+ age)",LAPLLPAFFP11A
+"Labour Force Participation Rate - All Regions - Female, (15 - 29 years)",LAPLLPAFFT11A
+"Labour Force Participation Rate - All Regions - Male, All Age Groups",LAPLLPAMAG11A
+"Labour Force Participation Rate - All Regions - Male, (15 - 59 years)",LAPLLPAMFF11A
+"Labour Force Participation Rate - All Regions - Male, (15+ age)",LAPLLPAMFP11A
+"Labour Force Participation Rate - All Regions - Male, (15 - 29 years)",LAPLLPAMFT11A
+"Labour Force Participation Rate - Rural - Both Genders, All Age Groups",LAPLLPRAAG11A
+"Labour Force Participation Rate - Rural - Both Genders, (15+ age)",LAPLLPRAFP11A
+"Labour Force Participation Rate - Rural - Both Genders, (15 - 29 years)",LAPLLPRAFT11A
+"Labour Force Participation Rate - Rural - Female, All Age Groups",LAPLLPRFAG11A
+"Labour Force Participation Rate - Rural - Female, (15 - 59 years)",LAPLLPRFFF11A
+"Labour Force Participation Rate - Rural - Female, (15+ age)",LAPLLPRFFP11A
+"Labour Force Participation Rate - Rural - Female, (15 - 29 years)",LAPLLPRFFT11A
+"Labour Force Participation Rate - Rural - Male, All Age Groups",LAPLLPRMAG11A
+"Labour Force Participation Rate - Rural - Male, (15 - 59 years)",LAPLLPRMFF11A
+"Labour Force Participation Rate - Rural - Male, (15+ age)",LAPLLPRMFP11A
+"Labour Force Participation Rate - Rural - Male, (15 - 29 years)",LAPLLPRMFT11A
+"Labour Force Participation Rate - Urban - Both Genders, All Age Groups",LAPLLPUAAG11A
+"Labour Force Participation Rate - Urban - Both Genders, (15 - 59 years)",LAPLLPUAFF11A
+"Labour Force Participation Rate - Urban - Both Genders, (15+ age)",LAPLLPUAFP11A
+"Labour Force Participation Rate - Urban - Both Genders, (15 - 29 years)",LAPLLPUAFT11A
+"Labour Force Participation Rate - Urban - Female, All Age Groups",LAPLLPUFAG11A
+"Labour Force Participation Rate - Urban - Female, (15 - 59 years)",LAPLLPUFFF11A
+"Labour Force Participation Rate - Urban - Female, (15+ age)",LAPLLPUFFP11A
+"Labour Force Participation Rate - Urban - Female, (15 - 29 years)",LAPLLPUFFT11A
+"Labour Force Participation Rate - Urban - Male, All Age Groups",LAPLLPUMAG11A
+"Labour Force Participation Rate - Urban - Male, (15 - 59 years)",LAPLLPUMFF11A
+"Labour Force Participation Rate - Urban - Male, (15+ age)",LAPLLPUMFP11A
+"Labour Force Participation Rate - Urban - Male, (15 - 29 years)",LAPLLPUMFT11A
+"Unemployment Rate - All Regions - Both Genders, All Age Groups",LAPLURAAAG11A
+"Unemployment Rate - All Regions - Both Genders, (15 - 59 years)",LAPLURAAFF11A
+"Unemployment Rate - All Regions - Both Genders, (15+ age)",LAPLURAAFP11A
+"Unemployment Rate - All Regions - Both Genders, (15 - 29 years)",LAPLURAAFT11A
+"Unemployment Rate - All Regions - Female, All Age Groups",LAPLURAFAG11A
+"Unemployment Rate - All Regions - Female, (15 - 59 years)",LAPLURAFFF11A
+"Unemployment Rate - All Regions - Female, (15+ age)",LAPLURAFFP11A
+"Unemployment Rate - All Regions - Female, (15 - 29 years)",LAPLURAFFT11A
+"Unemployment Rate - All Regions - Male, All Age Groups",LAPLURAMAG11A
+"Unemployment Rate - All Regions - Male, (15 - 59 years)",LAPLURAMFF11A
+"Unemployment Rate - All Regions - Male, (15+ age)",LAPLURAMFP11A
+"Unemployment Rate - All Regions - Male, (15 - 29 years)",LAPLURAMFT11A
+"Unemployment Rate - Rural - Both Genders, All Age Groups",LAPLURRAAG11A
+"Unemployment Rate - Rural - Both Genders, (15 - 59 years)",LAPLURRAFF11A
+"Unemployment Rate - Rural - Both Genders, (15+ age)",LAPLURRAFP11A
+"Unemployment Rate - Rural - Both Genders, (15 - 29 years)",LAPLURRAFT11A
+"Unemployment Rate - Rural - Female, All Age Groups",LAPLURRFAG11A
+"Unemployment Rate - Rural - Female, (15 - 59 years)",LAPLURRFFF11A
+"Unemployment Rate - Rural - Female, (15+ age)",LAPLURRFFP11A
+"Unemployment Rate - Rural - Female, (15 - 29 years)",LAPLURRFFT11A
+"Unemployment Rate - Rural - Male, All Age Groups",LAPLURRMAG11A
+"Unemployment Rate - Rural - Male, (15 - 59 years)",LAPLURRMFF11A
+"Unemployment Rate - Rural - Male, (15+ age)",LAPLURRMFP11A
+"Unemployment Rate - Rural - Male, (15 - 29 years)",LAPLURRMFT11A
+"Unemployment Rate - Urban - Both Genders, All Age Groups",LAPLURUAAG11A
+"Unemployment Rate - Urban - Both Genders, (15 - 59 years)",LAPLURUAFF11A
+"Unemployment Rate - Urban - Both Genders, (15+ age)",LAPLURUAFP11A
+"Unemployment Rate - Urban - Both Genders, (15 - 29 years)",LAPLURUAFT11A
+"Unemployment Rate - Urban - Female, All Age Groups",LAPLURUFAG11A
+"Unemployment Rate - Urban - Female, (15 - 59 years)",LAPLURUFFF11A
+"Unemployment Rate - Urban - Female, (15+ age)",LAPLURUFFP11A
+"Unemployment Rate - Urban - Female, (15 - 29 years)",LAPLURUFFT11A
+"Unemployment Rate - Urban - Male, All Age Groups",LAPLURUMAG11A
+"Unemployment Rate - Urban - Male, (15 - 59 years)",LAPLURUMFF11A
+"Unemployment Rate - Urban - Male, (15+ age)",LAPLURUMFP11A
+"Unemployment Rate - Urban - Male, (15 - 29 years)",LAPLURUMFT11A
+"Worker Population Ratio - All Regions - Both Genders, All Age Groups",LAPLWPAAAG11A
+"Worker Population Ratio - All Regions - Both Genders, (15 - 59 years)",LAPLWPAAFF11A
+"Worker Population Ratio - All Regions - Both Genders, (15+ age)",LAPLWPAAFP11A
+"Worker Population Ratio - All Regions - Both Genders, (15 - 29 years)",LAPLWPAAFT11A
+"Worker Population Ratio - All Regions - Female, All Age Groups",LAPLWPAFAG11A
+"Worker Population Ratio - All Regions - Female, (15 - 59 years)",LAPLWPAFFF11A
+"Worker Population Ratio - All Regions - Female, (15+ age)",LAPLWPAFFP11A
+"Worker Population Ratio - All Regions - Female, (15 - 29 years)",LAPLWPAFFT11A
+"Worker Population Ratio - All Regions - Male, All Age Groups",LAPLWPAMAG11A
+"Worker Population Ratio - All Regions - Male, (15 - 59 years)",LAPLWPAMFF11A
+"Worker Population Ratio - All Regions - Male, (15+ age)",LAPLWPAMFP11A
+"Worker Population Ratio - All Regions - Male, (15 - 29 years)",LAPLWPAMFT11A
+"Worker Population Ratio - Rural - Both Genders, All Age Groups",LAPLWPRAAG11A
+"Worker Population Ratio - Rural - Both Genders, (15+ age)",LAPLWPRAFP11A
+"Worker Population Ratio - Rural - Both Genders, (15 - 29 years)",LAPLWPRAFT11A
+"Worker Population Ratio - Rural - Female, All Age Groups",LAPLWPRFAG11A
+"Worker Population Ratio - Rural - Female, (15 - 59 years)",LAPLWPRFFF11A
+"Worker Population Ratio - Rural - Female, (15+ age)",LAPLWPRFFP11A
+"Worker Population Ratio - Rural - Female, (15 - 29 years)",LAPLWPRFFT11A
+"Worker Population Ratio - Rural - Male, All Age Groups",LAPLWPRMAG11A
+"Worker Population Ratio - Rural - Male, (15 - 59 years)",LAPLWPRMFF11A
+"Worker Population Ratio - Rural - Male, (15+ age)",LAPLWPRMFP11A
+"Worker Population Ratio - Rural - Male, (15 - 29 years)",LAPLWPRMFT11A
+"Worker Population Ratio - Urban - Both Genders, All Age Groups",LAPLWPUAAG11A
+"Worker Population Ratio - Urban - Both Genders, (15 - 59 years)",LAPLWPUAFF11A
+"Worker Population Ratio - Urban - Both Genders, (15+ age)",LAPLWPUAFP11A
+"Worker Population Ratio - Urban - Both Genders, (15 - 29 years)",LAPLWPUAFT11A
+"Worker Population Ratio - Urban - Female, All Age Groups",LAPLWPUFAG11A
+"Worker Population Ratio - Urban - Female, (15 - 59 years)",LAPLWPUFFF11A
+"Worker Population Ratio - Urban - Female, (15+ age)",LAPLWPUFFP11A
+"Worker Population Ratio - Urban - Female, (15 - 29 years)",LAPLWPUFFT11A
+"Worker Population Ratio - Urban - Male, All Age Groups",LAPLWPUMAG11A
+"Worker Population Ratio - Urban - Male, (15 - 59 years)",LAPLWPUMFF11A
+"Worker Population Ratio - Urban - Male, (15+ age)",LAPLWPUMFP11A
+"Worker Population Ratio - Urban - Male, (15 - 29 years)",LAPLWPUMFT11A
+Nominal GVA - Agriculture and Allied Activities (1999-2000 Series),NAGDNAGGVA00A
+"Nominal GVA - Agriculture and Allied Activities (1999-2000 Series, Quarterly)",NAGDNAGGVA00Q
+Nominal GVA - Agriculture and Allied Activities (2004-05 Series),NAGDNAGGVA05A
+"Nominal GVA - Agriculture and Allied Activities (2004-05 Series, Quarterly)",NAGDNAGGVA05Q
+Nominal GVA - Agriculture and Allied Activities (2011-12 Series),NAGDNAGGVA12A
+"Nominal GVA - Agriculture and Allied Activities (2011-12 Series, Quarterly)",NAGDNAGGVA12Q
+Nominal GVA - Agriculture and Allied Activities (1993-94 Series),NAGDNAGGVA94A
+"Nominal GDP (Quarterly, Blended)",NAGDNBLGDP11Q
+Nominal Gross Value Added (Blended),NAGDNBLGVA11A
+"Nominal GVA (Quarterly, Blended)",NAGDNBLGVA11Q
+"Nominal GVA - Construction (1999-2000 Series, Quarterly)",NAGDNCOGVA00Q
+"Nominal GVA - Construction (2004-05 Series, Quarterly)",NAGDNCOGVA05Q
+"Nominal GVA - Construction (2011-12 Series, Quarterly)",NAGDNCOGVA12Q
+"Nominal GVA - Financial, Real Estate & Professional Services (1999-2000 Series, Quarterly)",NAGDNFPGVA00Q
+"Nominal GVA - Financial, Real Estate & Professional Services (2004-05 Series, Quarterly)",NAGDNFPGVA05Q
+"Nominal GVA - Financial, Real Estate & Professional Services (2011-12 Series, Quarterly)",NAGDNFPGVA12Q
+"Nominal GDP excluding Government Consumption (1999-2000 Series, Quarterly)",NAGDNGDPXD00Q
+"Nominal GDP excluding Government Consumption (2011-12 Series, Quarterly)",NAGDNGDPXD12Q
+"Labour Force Participation Rate - Rural - Both Genders, (15 - 59 years)",LAPLLPRAFF11A
+"Nominal GDP excluding Government Consumption (2004-05 Series, Quarterly)",NAGDNGDPXD05Q
+"Nominal GDP excluding Statistical discrepancies (1999-2000 Series, Quarterly)",NAGDNGDPXG00Q
+"Nominal GDP excluding Statistical discrepancies (2004-05 Series, Quarterly)",NAGDNGDPXG05Q
+"Nominal GDP excluding Statistical discrepancies (2011-12 Series, Quarterly)",NAGDNGDPXG12Q
+Nominal GDP excluding Government Final Consumption (2004-05 Series),NAGDNGPXGC05A
+Nominal GDP excluding Government Final Consumption (2011-12 Series),NAGDNGPXGC12A
+Nominal GDP excluding Statistical Discrepancies (2004-05 Series),NAGDNGPXSD05A
+Nominal GDP excluding Statistical Discrepancies (2011-12 Series),NAGDNGPXSD12A
+"Nominal GVA - Excluding Agriculture and Allied Activities (1999-2000 Series, Quarterly)",NAGDNGVAXA00Q
+"Nominal GVA - Excluding Agriculture and Allied Activities (2004-05 Series, Quarterly)",NAGDNGVAXA05Q
+"Nominal GVA - Excluding Agriculture and Allied Activities (2011-12 Series, Quarterly)",NAGDNGVAXA12Q
+Nominal GVA - Industry (1999-2000 Series),NAGDNINGVA00A
+"Nominal GVA - Industry (1999-2000 Series, Quarterly)",NAGDNINGVA00Q
+Nominal GVA - Industry (2004-05 Series),NAGDNINGVA05A
+"Nominal GVA - Industry (2004-05 Series, Quarterly)",NAGDNINGVA05Q
+"Nominal GVA - Industry (2011-12 Series, Quarterly)",NAGDNINGVA12Q
+Nominal GVA - Industry (1993-94 Series),NAGDNINGVA94A
+"Nominal GVA - Manufacturing (1999-2000 Series, Quarterly)",NAGDNMAGVA00Q
+"Nominal GVA - Manufacturing (2004-05 Series, Quarterly)",NAGDNMAGVA05Q
+"Nominal GVA - Manufacturing (2011-12 Series, Quarterly)",NAGDNMAGVA12Q
+"Nominal GVA - Mining and Quarrying (1999-2000 Series, Quarterly)",NAGDNMIGVA00Q
+"Nominal GVA - Mining and Quarrying (2004-05 Series, Quarterly)",NAGDNMIGVA05Q
+"Nominal GVA - Mining and Quarrying (2011-12 Series, Quarterly)",NAGDNMIGVA12Q
+Nominal GVA - Agriculture (2004-05 series),NAGDNOAGRI05A
+Nominal GVA - Air transport (2011-12 series),NAGDNOAIRT12A
+Nominal GVA - Banking and Insurance (2004-05 series),NAGDNOBKIN05A
+Nominal GVA - Communication (2004-05 series),NAGDNOCOMU05A
+Nominal GVA - Communication & Services Related to Broadcasting (2011-12 series),NAGDNOCOMU12A
+Nominal GVA - Construction (2004-05 series),NAGDNOCONS05A
+Nominal GVA - Construction (2011-12 series),NAGDNOCONS12A
+Nominal GVA - Crops (2011-12 series),NAGDNOCROP12A
+"Nominal GVA - Community, Social and Personal Services (2004-05 series)",NAGDNOCSPS05A
+Nominal GVA - Financial services (2011-12 series),NAGDNOFINA12A
+"Nominal GVA - Financial services, Real estate, Professional services (2011-12 series)",NAGDNOFIRP12A
+Nominal GVA - Fishing (2004-05 series),NAGDNOFISH05A
+Nominal GVA - Fishing and Aquaculture (2011-12 series),NAGDNOFISH12A
+Nominal GVA - Forestry and Logging (2004-05 series),NAGDNOFOLO05A
+Nominal GVA - Forestry and Logging (2011-12 series),NAGDNOFOLO12A
+"Nominal GVA - Food Products, Beverages and Tobacco (2011-12 series)",NAGDNOFOOD12A
+"Nominal GVA - Financial Services, Real Estate and Business Services (2004-05 series)",NAGDNOFRBS05A
+Nominal GVA excluding Agriculture (2011-12 Series),NAGDNOGVXA12A
+Nominal GVA excluding Government Services (2011-12 Series),NAGDNOGVXG12A
+Nominal GVA - Hotels and Restaurants (2004-05 series),NAGDNOHOTE05A
+Nominal GVA - Hotels & Restaurants (2011-12 series),NAGDNOHOTE12A
+Nominal GVA - Livestock (2011-12 series),NAGDNOLIVE12A
+Nominal GVA - Machinery and Equipment (2011-12 series),NAGDNOMACH12A
+Nominal GVA - Manufacturing (2004-05 series),NAGDNOMANU05A
+Nominal GVA - Manufacturing (2011-12 series),NAGDNOMANU12A
+Nominal GVA - Metal Products (2011-12 series),NAGDNOMETL12A
+"Nominal GDP (1999-2000 Series, Quarterly)",NAGDNOMGDP00Q
+"Nominal GDP (2004-05 Series, Quarterly)",NAGDNOMGDP05Q
+Nominal GDP (2011-12 Series),NAGDNOMGDP12A
+"Nominal GDP (2011-12 Series, Quarterly)",NAGDNOMGDP12Q
+"Nominal GVA (1999-2000 Series, Quarterly)",NAGDNOMGVA00Q
+Nominal GVA (2004-05 Series),NAGDNOMGVA05A
+"Nominal GVA (2004-05 Series, Quarterly)",NAGDNOMGVA05Q
+Nominal GVA (2011-12 Series),NAGDNOMGVA12A
+"Nominal GVA (2011-12 Series, Quarterly)",NAGDNOMGVA12Q
+Nominal GVA (1980-81 Series),NAGDNOMGVA81A
+Nominal GVA (1993-94 Series),NAGDNOMGVA94A
+Nominal GVA - Mining & Quarrying (2004-05 series),NAGDNOMINE05A
+Nominal GVA - Mining and quarrying (2011-12 series),NAGDNOMINE12A
+Nominal GVA - Other Manufactured Goods (2011-12 series),NAGDNOOMFG12A
+Nominal GVA -  Other Services (2004-05 series),NAGDNOOTSV05A
+Nominal GVA - Other services (2011-12 series),NAGDNOOTSV12A
+Nominal GVA - Other Transport (2004-05 series),NAGDNOOTTR05A
+Nominal GVA -  Public Administration and Defence (2004-05 series),NAGDNOPAAD05A
+Nominal GVA - Public administration and defence (2011-12 series),NAGDNOPAAD12A
+"Nominal GVA - Public Administration, Defence, Other Services (2011-12 series)",NAGDNOPADO12A
+"Nominal GVA - Real estate, Professional services (2011-12 series)",NAGDNOPROP12A
+Nominal GVA - Railways (2004-05 series),NAGDNORAIL05A
+Nominal GVA - Railways (2011-12 series),NAGDNORAIL12A
+Nominal GVA -  Real Estate and Business Services (2004-05 series),NAGDNOREBS05A
+Nominal GDP (2004-05 Series),NAGDNOMGDP05A
+Nominal GVA - Registered Manufacturing (2004-05 series),NAGDNOREMF05A
+Nominal GVA - Road transport (2011-12 series),NAGDNOROAD12A
+Nominal GVA - Storage (2004-05 series),NAGDNOSTOR05A
+Nominal GVA - Storage (2011-12 series),NAGDNOSTOR12A
+"Nominal GVA - Textiles, Apparel and Leather Products (2011-12 series)",NAGDNOTEXT12A
+"Nominal GVA - Trade, Hotels, Transport, Communication (2011-12 series)",NAGDNOTHTC12A
+Nominal GVA - Trade (2004-05 series),NAGDNOTRAD05A
+Nominal GVA - Trade & Repair Services (2011-12 series),NAGDNOTRAD12A
+"Nominal GVA - Transport, Storage and Communication (2004-05 series)",NAGDNOTRCO05A
+"Nominal GVA - Transport, Storage, Communication and Broadcasting (2011-12 series)",NAGDNOTRCO12A
+"Nominal GVA - Trade, Hotels and Restaurant (2004-05 series)",NAGDNOTRHO05A
+"Nominal GVA - Trade, repair, hotels and restaurants (2011-12 series)",NAGDNOTRHO12A
+Nominal GVA - Services Incidental to Transport (2011-12 series),NAGDNOTRSV12A
+"Nominal GVA - Electricity, Gas and Other Utilities (2004-05 series)",NAGDNOUTIL05A
+"Nominal GVA - Electricity, Gas and Other Utilities (2011-12 series)",NAGDNOUTIL12A
+Nominal GVA - Water transport (2011-12 series),NAGDNOWATR12A
+"Nominal GVA - Public Administration, Defence & Other Services (1999-2000 Series, Quarterly)",NAGDNPAGVA00Q
+"Nominal GVA - Public Administration, Defence & Other Services (2004-05 Series, Quarterly)",NAGDNPAGVA05Q
+"Nominal GVA - Public Administration, Defence & Other Services (2011-12 Series, Quarterly)",NAGDNPAGVA12Q
+Per Capita Nominal GDP (2004-05 Series),NAGDNPCGDP05A
+Per Capita Nominal GDP (2011-12 Series),NAGDNPCGDP12A
+Per Capita Nominal Gross Value Added (GVA) (Blended series),NAGDNPCGVA99A
+Per Capita Nominal PFCE (2011-12 series),NAGDNPCPCE12A
+"Nominal Change in Inventories (1999-2000 Series, Quarterly)",NAGDNSCIIA00Q
+Nominal Change in Inventories (2004-05 Series),NAGDNSCIIA05A
+"Nominal Change in Inventories (2004-05 Series, Quarterly)",NAGDNSCIIA05Q
+Nominal Change in Inventories (2011-12 Series),NAGDNSCIIA12A
+"Nominal Change in Inventories (2011-12 Series, Quarterly)",NAGDNSCIIA12Q
+"Nominal Change in Valuables (1999-2000 Series, Quarterly)",NAGDNSCIVA00Q
+Nominal Change in Valuables (2004-05 Series),NAGDNSCIVA05A
+"Nominal Change in Valuables (2004-05 Series, Quarterly)",NAGDNSCIVA05Q
+Nominal Change in Valuables (2011-12 Series),NAGDNSCIVA12A
+"Nominal Change in Valuables (2011-12 Series, Quarterly)",NAGDNSCIVA12Q
+"Nominal Gross Capital Formation (1999-2000 Series, Quarterly)",NAGDNSGCFA00Q
+Nominal Gross Capital Formation (2004-05 Series),NAGDNSGCFA05A
+"Nominal Gross Capital Formation (2004-05 Series, Quarterly)",NAGDNSGCFA05Q
+Nominal Gross Capital Formation (2011-12 Series),NAGDNSGCFA12A
+"Nominal Gross Capital Formation (2011-12 Series, Quarterly)",NAGDNSGCFA12Q
+Nominal Government Final Consumption Expenditure (2004-05 Series),NAGDNSGFCE05A
+"Nominal Government Final Consumption Expenditure (2004-05 Series, Quarterly)",NAGDNSGFCE05Q
+Nominal Government Final Consumption Expenditure (2011-12 Series),NAGDNSGFCE12A
+"Nominal Government Final Consumption Expenditure (2011-12 Series, Quarterly)",NAGDNSGFCE12Q
+"Nominal Statistical Discrepancies (1999-2000 Series, Quarterly)",NAGDNSSTDS00Q
+Nominal Statistical Discrepancies (2004-05 Series),NAGDNSSTDS05A
+"Nominal Statistical Discrepancies (2004-05 Series, Quarterly)",NAGDNSSTDS05Q
+Nominal Statistical Discrepancies (2011-12 Series),NAGDNSSTDS12A
+"Nominal Statistical Discrepancies (2011-12 Series, Quarterly)",NAGDNSSTDS12Q
+Nominal GVA - Services (1999-2000 Series),NAGDNSVGVA00A
+"Nominal GVA - Services (1999-2000 Series, Quarterly)",NAGDNSVGVA00Q
+"Nominal Government Final Consumption Expenditure (1999-2000 Series, Quarterly)",NAGDNSGFCE00Q
+Nominal GVA - Services (2004-05 Series),NAGDNSVGVA05A
+"Nominal GVA - Services (2004-05 Series, Quarterly)",NAGDNSVGVA05Q
+Nominal GVA - Services (2011-12 Series),NAGDNSVGVA12A
+"Nominal GVA - Services (2011-12 Series, Quarterly)",NAGDNSVGVA12Q
+Nominal GVA - Services (1993-94 Series),NAGDNSVGVA94A
+"Nominal GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (1999-2000 Series, Quarterly)",NAGDNTTGVA00Q
+"Nominal GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (2004-05 Series, Quarterly)",NAGDNTTGVA05Q
+"Nominal GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (2011-12 Series, Quarterly)",NAGDNTTGVA12Q
+"Nominal GVA - Electricity, Gas, Water & Other Utilities (1999-2000 Series, Quarterly)",NAGDNUTGVA00Q
+"Nominal GVA - Electricity, Gas, Water & Other Utilities (2004-05 Series, Quarterly)",NAGDNUTGVA05Q
+"Nominal GVA - Electricity, Gas, Water & Other Utilities (2011-12 Series, Quarterly)",NAGDNUTGVA12Q
+Real GVA - Agriculture and Allied Activities (1999-2000 Series),NAGDRAGGVA00A
+"Real GVA - Agriculture and Allied Activities (1999-2000 Series, Quarterly)",NAGDRAGGVA00Q
+Real GVA - Agriculture and Allied Activities (2004-05 Series),NAGDRAGGVA05A
+"Real GVA - Agriculture and Allied Activities (2004-05 Series, Quarterly)",NAGDRAGGVA05Q
+Real GVA - Agriculture and Allied Activities (2011-12 Series),NAGDRAGGVA12A
+"Real GVA - Agriculture and Allied Activities (2011-12 Series, Quarterly)",NAGDRAGGVA12Q
+Real GVA - Agriculture and Allied Activities (1993-94 Series),NAGDRAGGVA94A
+"Real GDP (Quarterly, Blended)",NAGDRBLGDP11Q
+Real Gross Value Added (Blended),NAGDRBLGVA11A
+"Real GVA (Quarterly, Blended)",NAGDRBLGVA11Q
+"Real GVA - Construction (1999-2000 Series, Quarterly)",NAGDRCOGVA00Q
+"Real GVA - Construction (2004-05 Series, Quarterly)",NAGDRCOGVA05Q
+"Real GVA - Construction (2011-12 Series, Quarterly)",NAGDRCOGVA12Q
+"Real GDP (1999-2000 Series, Quarterly)",NAGDREAGDP00Q
+Real GDP (2004-05 Series),NAGDREAGDP05A
+"Real GDP (2004-05 Series, Quarterly)",NAGDREAGDP05Q
+Real GDP (2011-12 Series),NAGDREAGDP12A
+"Real GDP (2011-12 Series, Quarterly)",NAGDREAGDP12Q
+Real GVA - Agriculture (2004-05 series),NAGDREAGRI05A
+"Real GVA (1999-2000 Series, Quarterly)",NAGDREAGVA00Q
+Real GVA (2004-05 Series),NAGDREAGVA05A
+"Real GVA (2004-05 Series, Quarterly)",NAGDREAGVA05Q
+Real GVA (2011-12 Series),NAGDREAGVA12A
+"Real GVA (2011-12 Series, Quarterly)",NAGDREAGVA12Q
+Real GVA (1980-81 Series),NAGDREAGVA81A
+Real GVA (1993-94 Series),NAGDREAGVA94A
+Real GVA - Air transport (2011-12 series),NAGDREAIRT12A
+Real GVA - Banking and Insurance (2004-05 series),NAGDREBKIN05A
+Real GVA - Communication (2004-05 series),NAGDRECOMU05A
+Real GVA - Communication & Services Related to Broadcasting (2011-12 series),NAGDRECOMU12A
+Real GVA - Construction (2004-05 series),NAGDRECONS05A
+Real GVA - Construction (2011-12 series),NAGDRECONS12A
+Real GVA - Crops (2011-12 series),NAGDRECROP12A
+"Real GVA - Community, Social and Personal Services (2004-05 series)",NAGDRECSPS05A
+Real GVA - Financial services (2011-12 series),NAGDREFINA12A
+"Real GVA - Financial services, Real estate, Professional services (2011-12 series)",NAGDREFIRP12A
+Real GVA - Fishing (2004-05 series),NAGDREFISH05A
+Real GVA - Forestry and Logging (2004-05 series),NAGDREFOLO05A
+Real GVA - Forestry and Logging (2011-12 series),NAGDREFOLO12A
+"Real GVA - Food Products, Beverages and Tobacco (2011-12 series)",NAGDREFOOD12A
+"Real GVA - Financial Services, Real Estate and Business Services (2004-05 series)",NAGDREFRBS05A
+Real GVA excluding Agriculture (2011-12 Series),NAGDREGVXA12A
+Real GVA excluding Government Services (2011-12 Series),NAGDREGVXG12A
+Real GVA - Hotels and Restaurants (2004-05 series),NAGDREHOTE05A
+Real GVA - Livestock (2011-12 series),NAGDRELIVE12A
+Real GVA - Machinery and Equipment (2011-12 series),NAGDREMACH12A
+Real GVA - Manufacturing (2004-05 series),NAGDREMANU05A
+Real GVA - Manufacturing (2011-12 series),NAGDREMANU12A
+Real GVA - Metal Products (2011-12 series),NAGDREMETL12A
+Nominal GVA - Industry (2011-12 Series),NAGDNINGVA12A
+Nominal GVA (1999-2000 Series),NAGDNOMGVA00A
+Nominal GVA - Unregistered Manufacturing (2004-05 series),NAGDNOURMF05A
+Nominal Imports of Goods and Services (2011-12 Series),NAGDNSIGAS12A
+Real GVA (1999-2000 Series),NAGDREAGVA00A
+Real GVA - Fishing and Aquaculture (2011-12 series),NAGDREFISH12A
+Real GVA - Hotels & Restaurants (2011-12 series),NAGDREHOTE12A
+Real GVA - Mining & Quarrying (2004-05 series),NAGDREMINE05A
+Real GVA - Mining and quarrying (2011-12 series),NAGDREMINE12A
+Real GVA - Other Manufactured Goods (2011-12 series),NAGDREOMFG12A
+Real GVA -  Other Services (2004-05 series),NAGDREOTSV05A
+Real GVA - Other services (2011-12 series),NAGDREOTSV12A
+Real GVA - Other Transport (2004-05 series),NAGDREOTTR05A
+Real GVA -  Public Administration and Defence (2004-05 series),NAGDREPAAD05A
+Real GVA - Public administration and defence (2011-12 series),NAGDREPAAD12A
+"Real GVA - Public Administration, Defence, Other Services (2011-12 series)",NAGDREPADO12A
+"Real GVA - Real estate, Professional services (2011-12 series)",NAGDREPROP12A
+Real GVA - Railways (2004-05 series),NAGDRERAIL05A
+Real GVA - Railways (2011-12 series),NAGDRERAIL12A
+Real GVA -  Real Estate and Business Services (2004-05 series),NAGDREREBS05A
+Real GVA - Registered Manufacturing (2004-05 series),NAGDREREMF05A
+Real GVA - Road transport (2011-12 series),NAGDREROAD12A
+Real GVA - Storage (2004-05 series),NAGDRESTOR05A
+Real GVA - Storage (2011-12 series),NAGDRESTOR12A
+"Real GVA - Textiles, Apparel and Leather Products (2011-12 series)",NAGDRETEXT12A
+"Real GVA - Trade, Hotels, Transport, Communication (2011-12 series)",NAGDRETHTC12A
+Real GVA - Trade (2004-05 series),NAGDRETRAD05A
+Real GVA - Trade & Repair Services (2011-12 series),NAGDRETRAD12A
+"Real GVA - Transport, Storage, Communication and Broadcasting (2011-12 series)",NAGDRETRCO12A
+"Real GVA - Trade, Hotels and Restaurant (2004-05 series)",NAGDRETRHO05A
+"Real GVA - Trade, repair, hotels and restaurants (2011-12 series)",NAGDRETRHO12A
+Real GVA - Services Incidental to Transport (2011-12 series),NAGDRETRSV12A
+Real GVA - Unregistered Manufacturing (2004-05 series),NAGDREURMF05A
+"Real GVA - Electricity, Gas and Other Utilities (2004-05 series)",NAGDREUTIL05A
+"Real GVA - Electricity, Gas and Other Utilities (2011-12 series)",NAGDREUTIL12A
+Real GVA - Water transport (2011-12 series),NAGDREWATR12A
+"Real GVA - Financial, Real Estate & Professional Services (1999-2000 Series, Quarterly)",NAGDRFPGVA00Q
+"Real GVA - Financial, Real Estate & Professional Services (2004-05 Series, Quarterly)",NAGDRFPGVA05Q
+"Real GVA - Financial, Real Estate & Professional Services (2011-12 Series, Quarterly)",NAGDRFPGVA12Q
+"Real GDP excluding Government Consumption (1999-2000 Series, Quarterly)",NAGDRGDPXD00Q
+"Real GDP excluding Government Consumption (2004-05 Series, Quarterly)",NAGDRGDPXD05Q
+"Real GDP excluding Government Consumption (2011-12 Series, Quarterly)",NAGDRGDPXD12Q
+"Real GDP excluding Statistical discrepancies (1999-2000 Series, Quarterly)",NAGDRGDPXG00Q
+"Real GDP excluding Statistical discrepancies (2004-05 Series, Quarterly)",NAGDRGDPXG05Q
+"Real GDP excluding Statistical discrepancies (2011-12 Series, Quarterly)",NAGDRGDPXG12Q
+Real GDP excluding Government Final Consumption (2004-05 Series),NAGDRGPXGC05A
+Real GDP excluding Government Final Consumption (2011-12 Series),NAGDRGPXGC12A
+Real GDP excluding Statistical Discrepancies (2004-05 Series),NAGDRGPXSD05A
+Real GDP excluding Statistical Discrepancies (2011-12 Series),NAGDRGPXSD12A
+"Real GVA - Excluding Agriculture and Allied Activities (1999-2000 Series, Quarterly)",NAGDRGVAXA00Q
+"Real GVA - Excluding Agriculture and Allied Activities (2004-05 Series, Quarterly)",NAGDRGVAXA05Q
+"Real GVA - Excluding Agriculture and Allied Activities (2011-12 Series, Quarterly)",NAGDRGVAXA12Q
+Real GVA - Industry (1999-2000 Series),NAGDRINGVA00A
+"Real GVA - Industry (1999-2000 Series, Quarterly)",NAGDRINGVA00Q
+Real GVA - Industry (2004-05 Series),NAGDRINGVA05A
+"Real GVA - Industry (2004-05 Series, Quarterly)",NAGDRINGVA05Q
+Real GVA - Industry (2011-12 Series),NAGDRINGVA12A
+"Real GVA - Industry (2011-12 Series, Quarterly)",NAGDRINGVA12Q
+Real GVA - Industry (1993-94 Series),NAGDRINGVA94A
+"Real GVA - Manufacturing (1999-2000 Series, Quarterly)",NAGDRMAGVA00Q
+"Real GVA - Manufacturing (2004-05 Series, Quarterly)",NAGDRMAGVA05Q
+"Real GVA - Manufacturing (2011-12 Series, Quarterly)",NAGDRMAGVA12Q
+"Real GVA - Mining and Quarrying (1999-2000 Series, Quarterly)",NAGDRMIGVA00Q
+"Real GVA - Mining and Quarrying (2004-05 Series, Quarterly)",NAGDRMIGVA05Q
+"Real GVA - Mining and Quarrying (2011-12 Series, Quarterly)",NAGDRMIGVA12Q
+"Real GVA - Public Administration, Defence & Other Services (1999-2000 Series, Quarterly)",NAGDRPAGVA00Q
+"Real GVA - Public Administration, Defence & Other Services (2004-05 Series, Quarterly)",NAGDRPAGVA05Q
+"Real GVA - Public Administration, Defence & Other Services (2011-12 Series, Quarterly)",NAGDRPAGVA12Q
+Per Capita Real GDP (2004-05 Series),NAGDRPCGDP05A
+Per Capita Real GDP (2011-12 Series),NAGDRPCGDP12A
+Per Capita Real Gross Value Added (GVA) (Blended series),NAGDRPCGVA99A
+Per Capita Real PFCE (2011-12 series),NAGDRPCPCE12A
+"Real Change in Inventories (1999-2000 Series, Quarterly)",NAGDRSCIIA00Q
+Real Change in Inventories (2004-05 Series),NAGDRSCIIA05A
+"Real Change in Inventories (2004-05 Series, Quarterly)",NAGDRSCIIA05Q
+Real Change in Inventories (2011-12 Series),NAGDRSCIIA12A
+"Real Change in Inventories (2011-12 Series, Quarterly)",NAGDRSCIIA12Q
+"Real Change in Valuables (1999-2000 Series, Quarterly)",NAGDRSCIVA00Q
+Real Change in Valuables (2004-05 Series),NAGDRSCIVA05A
+"Real Change in Valuables (2004-05 Series, Quarterly)",NAGDRSCIVA05Q
+Real Change in Valuables (2011-12 Series),NAGDRSCIVA12A
+"Real Change in Valuables (2011-12 Series, Quarterly)",NAGDRSCIVA12Q
+"Real Gross Capital Formation (1999-2000 Series, Quarterly)",NAGDRSGCFA00Q
+Real Gross Capital Formation (2004-05 Series),NAGDRSGCFA05A
+"Real Gross Capital Formation (2004-05 Series, Quarterly)",NAGDRSGCFA05Q
+Real Gross Capital Formation (2011-12 Series),NAGDRSGCFA12A
+"Real Gross Capital Formation (2011-12 Series, Quarterly)",NAGDRSGCFA12Q
+"Real Government Final Consumption Expenditure (1999-2000 Series, Quarterly)",NAGDRSGFCE00Q
+Real Government Final Consumption Expenditure (2004-05 Series),NAGDRSGFCE05A
+"Real Government Final Consumption Expenditure (2004-05 Series, Quarterly)",NAGDRSGFCE05Q
+Real Government Final Consumption Expenditure (2011-12 Series),NAGDRSGFCE12A
+"Real Government Final Consumption Expenditure (2011-12 Series, Quarterly)",NAGDRSGFCE12Q
+"Real Gross Fixed Capital Formation (1999-2000 Series, Quarterly)",NAGDRSGFCF00Q
+Real Gross Fixed Capital Formation (2004-05 Series),NAGDRSGFCF05A
+"Real Gross Fixed Capital Formation (2004-05 Series, Quarterly)",NAGDRSGFCF05Q
+Real Gross Fixed Capital Formation (2011-12 Series),NAGDRSGFCF12A
+"Real Gross Fixed Capital Formation (2011-12 Series, Quarterly)",NAGDRSGFCF12Q
+"Real Imports of Goods and Services (1999-2000 Series, Quarterly)",NAGDRSIGAS00Q
+Real Imports of Goods and Services (2004-05 Series),NAGDRSIGAS05A
+"Real Imports of Goods and Services (2004-05 Series, Quarterly)",NAGDRSIGAS05Q
+Real Imports of Goods and Services (2011-12 Series),NAGDRSIGAS12A
+"Real Imports of Goods and Services (2011-12 Series, Quarterly)",NAGDRSIGAS12Q
+"Real Net Exports of Goods and Services (1999-2000 Series, Quarterly)",NAGDRSNXGS00Q
+Real Net Exports of Goods and Services (2004-05 Series),NAGDRSNXGS05A
+"Real Net Exports of Goods and Services (2004-05 Series, Quarterly)",NAGDRSNXGS05Q
+Real Net Exports of Goods and Services (2011-12 Series),NAGDRSNXGS12A
+"Real Net Exports of Goods and Services (2011-12 Series, Quarterly)",NAGDRSNXGS12Q
+"Real Private Final Consumption Expenditure (1999-2000 Series, Quarterly)",NAGDRSPFCE00Q
+Real Private Final Consumption Expenditure (2004-05 Series),NAGDRSPFCE05A
+"Real Private Final Consumption Expenditure (2004-05 Series, Quarterly)",NAGDRSPFCE05Q
+Real Private Final Consumption Expenditure (2011-12 Series),NAGDRSPFCE12A
+"Real Private Final Consumption Expenditure (2011-12 Series, Quarterly)",NAGDRSPFCE12Q
+"Real Statistical Discrepancies (1999-2000 Series, Quarterly)",NAGDRSSTDS00Q
+Real Statistical Discrepancies (2004-05 Series),NAGDRSSTDS05A
+"Real Statistical Discrepancies (2004-05 Series, Quarterly)",NAGDRSSTDS05Q
+Real Statistical Discrepancies (2011-12 Series),NAGDRSSTDS12A
+"Real Statistical Discrepancies (2011-12 Series, Quarterly)",NAGDRSSTDS12Q
+Real GVA - Services (1999-2000 Series),NAGDRSVGVA00A
+"Real GVA - Services (1999-2000 Series, Quarterly)",NAGDRSVGVA00Q
+Real GVA - Services (2004-05 Series),NAGDRSVGVA05A
+"Real GVA - Services (2004-05 Series, Quarterly)",NAGDRSVGVA05Q
+Real GVA - Services (2011-12 Series),NAGDRSVGVA12A
+"Real GVA - Services (2011-12 Series, Quarterly)",NAGDRSVGVA12Q
+"Real Exports of Goods and Services (1999-2000 Series, Quarterly)",NAGDRSXGAS00Q
+"Real Exports of Goods and Services (2004-05 Series, Quarterly)",NAGDRSXGAS05Q
+Real Exports of Goods and Services (2011-12 Series),NAGDRSXGAS12A
+"Real Exports of Goods and Services (2011-12 Series, Quarterly)",NAGDRSXGAS12Q
+"Real GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (1999-2000 Series, Quarterly)",NAGDRTTGVA00Q
+"Real GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (2004-05 Series, Quarterly)",NAGDRTTGVA05Q
+"Real GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (2011-12 Series, Quarterly)",NAGDRTTGVA12Q
+"Real GVA - Electricity, Gas, Water & Other Utilities (1999-2000 Series, Quarterly)",NAGDRUTGVA00Q
+"Real GVA - Electricity, Gas, Water & Other Utilities (2004-05 Series, Quarterly)",NAGDRUTGVA05Q
+"Real GVA - Electricity, Gas, Water & Other Utilities (2011-12 Series, Quarterly)",NAGDRUTGVA12Q
+Nominal GDP (Annual) - Brazil,NOMGDPBRTOGLA
+Nominal GDP (Annual) - China,NOMGDPCHTOGLA
+Nominal GDP (Annual) - France,NOMGDPFRTOGLA
+Nominal GDP (Annual) - Germany,NOMGDPGETOGLA
+Nominal GDP (Annual) - Indonesia,NOMGDPIDTOGLA
+Nominal GDP (Annual) - India,NOMGDPINTOGLA
+Nominal GDP (Annual) - Italy,NOMGDPITTOGLA
+Nominal GDP (Annual) - Japan,NOMGDPJPTOGLA
+Nominal GDP (Annual) - Mexico,NOMGDPMXTOGLA
+Nominal GDP (Annual) - Philippines,NOMGDPPHTOGLA
+Nominal GDP (Annual) - Poland,NOMGDPPLTOGLA
+Nominal GDP (Annual) - South Africa,NOMGDPSATOGLA
+Nominal GDP (Annual) - South Korea,NOMGDPSKTOGLA
+Nominal GDP (Annual) - Thailand,NOMGDPTHTOGLA
+Nominal GDP (Annual) - Türkiye,NOMGDPTRTOGLA
+Nominal GDP (Annual) - United Kingdom,NOMGDPUKTOGLA
+Nominal GDP (Annual) - United States,NOMGDPUSTOGLA
+"US Non Farm Payroll (monthly change, SA)",NONFPUSNETGLM
+Real Exports of Goods and Services (2004-05 Series),NAGDRSXGAS05A
+"US Non Farm Payroll (total, SA)",NONFPUSTOTGLM
+Consensus GDP Growth for the Current Year,RBPFSVGDCY11M
+Consensus GDP Growth for the Next Year,RBPFSVGDNY11M
+Consensus GVA Growth for the Current Year,RBPFSVGVCY11M
+Consensus GVA Growth for the Next Year,RBPFSVGVNY11M
+Real GDP - Brazil,REAGDPBRTOGLQ
+Real GDP - China,REAGDPCHTOGLQ
+Real GDP - Euro Area,REAGDPEUTOGLQ
+Real GDP - France,REAGDPFRTOGLQ
+Real GDP - Germany,REAGDPGETOGLQ
+Real GDP - Indonesia,REAGDPIDTOGLQ
+Real GDP - Italy,REAGDPITTOGLQ
+Real GDP - Japan,REAGDPJPTOGLQ
+Real GDP - Mexico,REAGDPMXTOGLQ
+Real GDP - Philippines,REAGDPPHTOGLQ
+Real GDP - South Africa,REAGDPSATOGLQ
+Real GDP - South Korea,REAGDPSKTOGLQ
+Real GDP - Thailand,REAGDPTHTOGLQ
+Real GDP - Turkiye,REAGDPTRTOGLQ
+Real GDP - UK,REAGDPUKTOGLQ
+Real GDP - USA,REAGDPUSTOGLQ
+Birth Rate (Annual),SSDGBIRTHR11A
+Death Rate (Annual),SSDGDEATHR11A
+Literacy Rate,SSDGLITRAT11X
+Mid-Year Estimated Population,SSDGMYEPOP11A
+Population Density,SSDGPOPDEN11X
+Projected Median Age of Population,SSDGPRMDAG11Q
+Projected share of Urban Population,SSDGPSHURT11A
+Projected Annual Population,SSDGPTTAPP11A
+Projected Annual Population (Female),SSDGPTTFPP11A
+Projected Annual Population (Male),SSDGPTTMPP11A
+Projected Annual Urban Population,SSDGPURAPP11A
+Projected Annual Urban Population (Female),SSDGPURFPP11A
+Projected Annual Urban Population (Male),SSDGPURMPP11A
+Total Rural Population,SSDGRURPOP11X
+Sex Ratio,SSDGSEXRTO11X
+Sex Ratio at Birth (Annual),SSDGSXRTBR11A
+Total Fertility Rate (Annual),SSDGTFRATE11A
+Total Population,SSDGTOTPOP11X
+Total Urban Population,SSDGURBPOP11X
+Number of Colleges in India,SSEDCOLTOT11A
+Percentage of children enrolled in Government schools,SSEDENAGOV11A
+Percentage of enrolled children able to identify 4 out of 5 letters,SSEDENALEB11A
+Percentage of enrolled children able to read 4 out of 5 words,SSEDENALEC11A
+Percentage of enrolled children able to read a short paragraph (class I text),SSEDENALED11A
+Percentage of enrolled children able to read a longer paragraph (class II text),SSEDENALEE11A
+Percentage of children not enrolled in schools,SSEDENANES11A
+Percentage of children enrolled in non-Government non-Private schools,SSEDENANGP11A
+Percentage of children enrolled in Private schools,SSEDENAPVT11A
+Percentage of boys enrolled in Government schools,SSEDENBGOV11A
+Percentage of enrolled boys able to identify less than 4 out of 5 letters correctly,SSEDENBLEA11A
+Percentage of enrolled boys able to identify 4 out of 5 letters,SSEDENBLEB11A
+Percentage of enrolled boys able to read 4 out of 5 words,SSEDENBLEC11A
+Percentage of enrolled boys able to read a short paragraph (class I text),SSEDENBLED11A
+Percentage of boys not enrolled in schools,SSEDENBNES11A
+Percentage of boys enrolled in non-Government non-Private schools,SSEDENBNGP11A
+Percentage of boys enrolled in Private schools,SSEDENBPVT11A
+Percentage of girls enrolled in Government schools,SSEDENGGOV11A
+Percentage of enrolled girls able to identify less than 4 out of 5 letters correctly,SSEDENGLEA11A
+Percentage of enrolled girls able to identify 4 out of 5 letters,SSEDENGLEB11A
+Percentage of enrolled girls able to read 4 out of 5 words,SSEDENGLEC11A
+Percentage of enrolled girls able to read a short paragraph (class I text),SSEDENGLED11A
+Percentage of enrolled girls able to read a longer paragraph (class II text),SSEDENGLEE11A
+Percentage of girls not enrolled in schools,SSEDENGNES11A
+Percentage of girls enrolled in non-Government non-Private schools,SSEDENGNGP11A
+Percentage of girls enrolled in Private schools,SSEDENGPVT11A
+Gross Enrolment Ratio in Higher Education - Female,SSEDERRTFM11A
+Gross Enrolment Ratio in Higher Education (SC Category) - Female,SSEDERRTSF11A
+Gross Enrolment Ratio in Higher Education (SC Category) - Male,SSEDERRTSM11A
+Gross Enrolment Ratio in Higher Education (SC Category),SSEDERRTST11A
+Gross Enrolment Ratio in Higher Education (ST Category) - Female,SSEDERRTTF11A
+Gross Enrolment Ratio in Higher Education (ST Category) - Male,SSEDERRTTM11A
+Gross Enrolment Ratio in Higher Education (ST Category),SSEDERRTTT11A
+Total Enrolment in Deemed University - Government Aided - Certificate Courses (Female),SSEDHADFCE11A
+"Real GVA - Transport, Storage and Communication (2004-05 series)",NAGDRETRCO05A
+Real GVA - Services (1993-94 Series),NAGDRSVGVA94A
+Percentage of enrolled boys able to read a longer paragraph (class II text),SSEDENBLEE11A
+Gross Enrolment Ratio in Higher Education - Male,SSEDERRTML11A
+Total Enrolment in Deemed University - Government Aided - Post Graduate Diploma Courses (Female),SSEDHADFDE11A
+Total Enrolment in Deemed University - Government Aided - Post Graduate Courses (Female),SSEDHADFGE11A
+Total Enrolment in Deemed University - Government Aided - Integrated Courses (Female),SSEDHADFIE11A
+Total Enrolment in Deemed University - Government Aided - Diploma Courses (Female),SSEDHADFLE11A
+Total Enrolment in Deemed University - Government Aided - MPhil Course (Female),SSEDHADFME11A
+Total Enrolment in Deemed University - Government Aided - PhD Course (Female),SSEDHADFPE11A
+Total Enrolment in Deemed University - Government Aided (Female),SSEDHADFTE11A
+Total Enrolment in Deemed University - Government Aided - Under Graduate Courses (Female),SSEDHADFUE11A
+Total Enrolment in Deemed University - Government Aided - Certificate Courses (Male),SSEDHADMCE11A
+Total Enrolment in Deemed University - Government Aided - Post Graduate Diploma Courses (Male),SSEDHADMDE11A
+Total Enrolment in Deemed University - Government Aided - Post Graduate Courses (Male),SSEDHADMGE11A
+Total Enrolment in Deemed University - Government Aided - Integrated Courses (Male),SSEDHADMIE11A
+Total Enrolment in Deemed University - Government Aided - Diploma Courses (Male),SSEDHADMLE11A
+Total Enrolment in Deemed University - Government Aided - MPhil Course (Male),SSEDHADMME11A
+Total Enrolment in Deemed University - Government Aided - PhD Course (Male),SSEDHADMPE11A
+Total Enrolment in Deemed University - Government Aided (Male),SSEDHADMTE11A
+Total Enrolment in Deemed University - Government Aided - Under Graduate Courses (Male),SSEDHADMUE11A
+Total Enrolment in Deemed University - Government Aided - Certificate Courses,SSEDHADTCE11A
+Total Enrolment in Deemed University - Government Aided - Post Graduate Diploma Courses,SSEDHADTDE11A
+Total Enrolment in Deemed University - Government Aided - Post Graduate Courses,SSEDHADTGE11A
+Total Enrolment in Deemed University - Government Aided - Integrated Courses,SSEDHADTIE11A
+Total Enrolment in Deemed University - Government Aided - Diploma Courses,SSEDHADTLE11A
+Total Enrolment in Deemed University - Government Aided - MPhil Course,SSEDHADTME11A
+Total Enrolment in Deemed University - Government Aided - PhD Course,SSEDHADTPE11A
+Total Enrolment in Deemed University - Government Aided,SSEDHADTTE11A
+Total Enrolment in Deemed University - Government Aided - Under Graduate Courses,SSEDHADTUE11A
+Total Enrolment in All Universities - Certificate Courses (Female),SSEDHAUFCE11A
+Total Enrolment in All Universities - Post Graduate Diploma Courses (Female),SSEDHAUFDE11A
+Total Enrolment in All Universities - Post Graduate Courses (Female),SSEDHAUFGE11A
+Total Enrolment in All Universities - Integrated Courses (Female),SSEDHAUFIE11A
+Total Enrolment in All Universities - Diploma Courses (Female),SSEDHAUFLE11A
+Total Enrolment in All Universities - MPhil Course (Female),SSEDHAUFME11A
+Total Enrolment in All Universities - PhD Course (Female),SSEDHAUFPE11A
+Total Enrolment in All Universities (Female),SSEDHAUFTE11A
+Total Enrolment in All Universities - Under Graduate Courses (Female),SSEDHAUFUE11A
+Total Enrolment in All Universities - Certificate Courses (Male),SSEDHAUMCE11A
+Total Enrolment in All Universities - Post Graduate Diploma Courses (Male),SSEDHAUMDE11A
+Total Enrolment in All Universities - Post Graduate Courses (Male),SSEDHAUMGE11A
+Total Enrolment in All Universities - Integrated Courses (Male),SSEDHAUMIE11A
+Total Enrolment in All Universities - Diploma Courses (Male),SSEDHAUMLE11A
+Total Enrolment in All Universities - MPhil Course (Male),SSEDHAUMME11A
+Total Enrolment in All Universities - PhD Course (Male),SSEDHAUMPE11A
+Total Enrolment in All Universities (Male),SSEDHAUMTE11A
+Total Enrolment in All Universities - Under Graduate Courses (Male),SSEDHAUMUE11A
+Total Enrolment in All Universities - Certificate Courses,SSEDHAUTCE11A
+Total Enrolment in All Universities - Post Graduate Diploma Courses,SSEDHAUTDE11A
+Total Enrolment in All Universities - Post Graduate Courses,SSEDHAUTGE11A
+Total Enrolment in All Universities - Integrated Courses,SSEDHAUTIE11A
+Total Enrolment in All Universities - Diploma Courses,SSEDHAUTLE11A
+Total Enrolment in All Universities - PhD Course,SSEDHAUTPE11A
+Total Enrolment in All Universities,SSEDHAUTTE11A
+Total Enrolment in All Universities - Under Graduate Courses,SSEDHAUTUE11A
+Total Enrolment in Central Open Universities - Certificate Courses (Female),SSEDHCOFCE11A
+Total Enrolment in Central Open Universities - Post Graduate Diploma Courses (Female),SSEDHCOFDE11A
+Total Enrolment in Central Open Universities - Post Graduate Courses (Female),SSEDHCOFGE11A
+Total Enrolment in Central Open Universities - Integrated Courses (Female),SSEDHCOFIE11A
+Total Enrolment in Central Open Universities - Diploma Courses (Female),SSEDHCOFLE11A
+Total Enrolment in Central Open Universities - MPhil Course (Female),SSEDHCOFME11A
+Total Enrolment in Central Open Universities - PhD Course (Female),SSEDHCOFPE11A
+Total Enrolment in Central Open Universities (Female),SSEDHCOFTE11A
+Total Enrolment in Central Open Universities - Under Graduate Courses (Female),SSEDHCOFUE11A
+Total Enrolment in Central Open Universities - Certificate Courses (Male),SSEDHCOMCE11A
+Total Enrolment in Central Open Universities - Post Graduate Courses (Male),SSEDHCOMGE11A
+Total Enrolment in Central Open Universities - Integrated Courses (Male),SSEDHCOMIE11A
+Total Enrolment in Central Open Universities - Diploma Courses (Male),SSEDHCOMLE11A
+Total Enrolment in Central Open Universities - MPhil Course (Male),SSEDHCOMME11A
+Total Enrolment in Central Open Universities (Male),SSEDHCOMTE11A
+Total Enrolment in Central Open Universities - Under Graduate Courses (Male),SSEDHCOMUE11A
+Total Enrolment in Central Open Universities - Post Graduate Diploma Courses,SSEDHCOTDE11A
+Total Enrolment in Central Open Universities - Post Graduate Courses,SSEDHCOTGE11A
+Total Enrolment in Central Open Universities - Integrated Courses,SSEDHCOTIE11A
+Percentage of enrolled children able to identify less than 4 out of 5 letters correctly,SSEDENALEA11A
+Gross Enrolment Ratio in Higher Education,SSEDERRTOT11A
+Total Enrolment in Central Open Universities - Post Graduate Diploma Courses (Male),SSEDHCOMDE11A
+Total Enrolment in Central Open Universities - PhD Course (Male),SSEDHCOMPE11A
+Total Enrolment in Central Open Universities - Certificate Courses,SSEDHCOTCE11A
+Total Enrolment in Central Open Universities - Diploma Courses,SSEDHCOTLE11A
+Total Enrolment in Central Open Universities - MPhil Course,SSEDHCOTME11A
+Total Enrolment in Central Open Universities - PhD Course,SSEDHCOTPE11A
+Total Enrolment in Central Open Universities,SSEDHCOTTE11A
+Total Enrolment in Central Open Universities - Under Graduate Courses,SSEDHCOTUE11A
+Total Enrolment in Central Universities - Certificate Courses (Female),SSEDHCUFCE11A
+Total Enrolment in Central Universities - Post Graduate Diploma Courses (Female),SSEDHCUFDE11A
+Total Enrolment in Central Universities - Post Graduate Courses (Female),SSEDHCUFGE11A
+Total Enrolment in Central Universities - Integrated Courses (Female),SSEDHCUFIE11A
+Total Enrolment in Central Universities - Diploma Courses (Female),SSEDHCUFLE11A
+Total Enrolment in Central Universities - MPhil Course (Female),SSEDHCUFME11A
+Total Enrolment in Central Universities - PhD Course (Female),SSEDHCUFPE11A
+Total Enrolment in Central Universities (Female),SSEDHCUFTE11A
+Total Enrolment in Central Universities - Under Graduate Courses (Female),SSEDHCUFUE11A
+Total Enrolment in Central Universities - Certificate Courses (Male),SSEDHCUMCE11A
+Total Enrolment in Central Universities - Post Graduate Diploma Courses (Male),SSEDHCUMDE11A
+Total Enrolment in Central Universities - Post Graduate Courses (Male),SSEDHCUMGE11A
+Total Enrolment in Central Universities - Integrated Courses (Male),SSEDHCUMIE11A
+Total Enrolment in Central Universities - Diploma Courses (Male),SSEDHCUMLE11A
+Total Enrolment in Central Universities - MPhil Course (Male),SSEDHCUMME11A
+Total Enrolment in Central Universities - PhD Course (Male),SSEDHCUMPE11A
+Total Enrolment in Central Universities (Male),SSEDHCUMTE11A
+Total Enrolment in Central Universities - Under Graduate Courses (Male),SSEDHCUMUE11A
+Total Enrolment in Central Universities - Certificate Courses,SSEDHCUTCE11A
+Total Enrolment in Central Universities - Post Graduate Diploma Courses,SSEDHCUTDE11A
+Total Enrolment in Central Universities - Post Graduate Courses,SSEDHCUTGE11A
+Total Enrolment in Central Universities - Integrated Courses,SSEDHCUTIE11A
+Total Enrolment in Central Universities - Diploma Courses,SSEDHCUTLE11A
+Total Enrolment in Central Universities - MPhil Course,SSEDHCUTME11A
+Total Enrolment in Central Universities - PhD Course,SSEDHCUTPE11A
+Total Enrolment in Central Universities,SSEDHCUTTE11A
+Total Enrolment in Central Universities - Under Graduate Courses,SSEDHCUTUE11A
+Total Enrolment in Deemed University - Government - Certificate Courses (Female),SSEDHDUFCE11A
+Total Enrolment in Deemed University - Government - Post Graduate Diploma Courses (Female),SSEDHDUFDE11A
+Total Enrolment in Deemed University - Government - Post Graduate Courses (Female),SSEDHDUFGE11A
+Total Enrolment in Deemed University - Government - Integrated Courses (Female),SSEDHDUFIE11A
+Total Enrolment in Deemed University - Government - Diploma Courses (Female),SSEDHDUFLE11A
+Total Enrolment in Deemed University - Government - MPhil Course (Female),SSEDHDUFME11A
+Total Enrolment in Deemed University - Government - PhD Course (Female),SSEDHDUFPE11A
+Total Enrolment in Deemed University - Government (Female),SSEDHDUFTE11A
+Total Enrolment in Deemed University - Government - Under Graduate Courses (Female),SSEDHDUFUE11A
+Total Enrolment in Deemed University - Government - Certificate Courses (Male),SSEDHDUMCE11A
+Total Enrolment in Deemed University - Government - Post Graduate Diploma Courses (Male),SSEDHDUMDE11A
+Total Enrolment in Deemed University - Government - Post Graduate Courses (Male),SSEDHDUMGE11A
+Total Enrolment in Deemed University - Government - Integrated Courses (Male),SSEDHDUMIE11A
+Total Enrolment in Deemed University - Government - Diploma Courses (Male),SSEDHDUMLE11A
+Total Enrolment in Deemed University - Government - MPhil Course (Male),SSEDHDUMME11A
+Total Enrolment in Deemed University - Government - PhD Course (Male),SSEDHDUMPE11A
+Total Enrolment in Deemed University - Government (Male),SSEDHDUMTE11A
+Total Enrolment in Deemed University - Government - Under Graduate Courses (Male),SSEDHDUMUE11A
+Total Enrolment in Deemed University - Government - Certificate Courses,SSEDHDUTCE11A
+Total Enrolment in Deemed University - Government - Post Graduate Diploma Courses,SSEDHDUTDE11A
+Total Enrolment in Deemed University - Government - Post Graduate Courses,SSEDHDUTGE11A
+Total Enrolment in Deemed University - Government - Integrated Courses,SSEDHDUTIE11A
+Total Enrolment in Deemed University - Government - Diploma Courses,SSEDHDUTLE11A
+Total Enrolment in Deemed University - Government - MPhil Course,SSEDHDUTME11A
+Total Enrolment in Deemed University - Government,SSEDHDUTTE11A
+Total Enrolment in Deemed University - Government - Under Graduate Courses,SSEDHDUTUE11A
+Average Enrolment per College,SSEDHEDAEC11A
+Number of Colleges per 100k population,SSEDHEDCPL11A
+Estimated Enrolment of Students in Higher Education in Certificate Courses - Female,SSEDHEEFCT11A
+Estimated Enrolment of Students in Higher Education in Diploma Courses - Female,SSEDHEEFDP11A
+Estimated Enrolment of Students in Higher Education in Integrated Course Courses - Female,SSEDHEEFIG11A
+Estimated Enrolment of Students in Higher Education in M Phil Courses - Female,SSEDHEEFMP11A
+Estimated Enrolment of Students in Higher Education in Post Graduate Diploma Courses - Female,SSEDHEEFPD11A
+Estimated Enrolment of Students in Higher Education in Post Graduate Courses - Female,SSEDHEEFPG11A
+Estimated Enrolment of Students in Higher Education in PhD Courses - Female,SSEDHEEFPH11A
+Estimated Enrolment of Students in Higher Education - Female,SSEDHEEFTT11A
+Estimated Enrolment of Students in Higher Education in Under Graduate Courses - Female,SSEDHEEFUG11A
+Estimated Enrolment of Students in Higher Education in Certificate Courses - Male,SSEDHEEMCT11A
+Estimated Enrolment of Students in Higher Education in Diploma Courses - Male,SSEDHEEMDP11A
+Estimated Enrolment of Students in Higher Education in Integrated Course Courses - Male,SSEDHEEMIG11A
+Estimated Enrolment of Students in Higher Education in M Phil Courses - Male,SSEDHEEMMP11A
+Estimated Enrolment of Students in Higher Education in Post Graduate Diploma Courses - Male,SSEDHEEMPD11A
+Estimated Enrolment of Students in Higher Education in Post Graduate Courses - Male,SSEDHEEMPG11A
+Estimated Enrolment of Students in Higher Education in PhD Courses - Male,SSEDHEEMPH11A
+Estimated Enrolment of Students in Higher Education - Male,SSEDHEEMTT11A
+Estimated Enrolment of Students in Higher Education in Under Graduate Courses - Male,SSEDHEEMUG11A
+Estimated Enrolment of Students in Higher Education in Integrated Course Courses,SSEDHEETIG11A
+Estimated Enrolment of Students in Higher Education in M Phil Courses,SSEDHEETMP11A
+Estimated Enrolment of Students in Higher Education in PhD Courses,SSEDHEETPH11A
+Estimated Enrolment of Students in Higher Education,SSEDHEETTT11A
+Estimated Enrolment of Students in Higher Education in Under Graduate Courses,SSEDHEETUG11A
+Total Enrolment in Institutes of National Importance - Certificate Courses (Female),SSEDHNIFCE11A
+Total Enrolment in Institutes of National Importance - Post Graduate Diploma Courses (Female),SSEDHNIFDE11A
+Total Enrolment in Institutes of National Importance - Post Graduate Courses (Female),SSEDHNIFGE11A
+Total Enrolment in Institutes of National Importance - Integrated Courses (Female),SSEDHNIFIE11A
+Total Enrolment in Institutes of National Importance - Diploma Courses (Female),SSEDHNIFLE11A
+Total Enrolment in Institutes of National Importance - MPhil Course (Female),SSEDHNIFME11A
+Total Enrolment in Institutes of National Importance - PhD Course (Female),SSEDHNIFPE11A
+Total Enrolment in Institutes of National Importance (Female),SSEDHNIFTE11A
+Total Enrolment in Institutes of National Importance - Under Graduate Courses (Female),SSEDHNIFUE11A
+Total Enrolment in Institutes of National Importance - Certificate Courses (Male),SSEDHNIMCE11A
+Total Enrolment in Institutes of National Importance - Post Graduate Diploma Courses (Male),SSEDHNIMDE11A
+Total Enrolment in Institutes of National Importance - Post Graduate Courses (Male),SSEDHNIMGE11A
+Total Enrolment in Institutes of National Importance - Integrated Courses (Male),SSEDHNIMIE11A
+Total Enrolment in Institutes of National Importance - Diploma Courses (Male),SSEDHNIMLE11A
+Total Enrolment in Institutes of National Importance - MPhil Course (Male),SSEDHNIMME11A
+Total Enrolment in Institutes of National Importance - PhD Course (Male),SSEDHNIMPE11A
+Total Enrolment in Institutes of National Importance (Male),SSEDHNIMTE11A
+Total Enrolment in All Universities - MPhil Course,SSEDHAUTME11A
+Total Enrolment in Institutes of National Importance - Under Graduate Courses (Male),SSEDHNIMUE11A
+Total Enrolment in Institutes of National Importance - Certificate Courses,SSEDHNITCE11A
+Total Enrolment in Institutes of National Importance - Post Graduate Diploma Courses,SSEDHNITDE11A
+Total Enrolment in Institutes of National Importance - Post Graduate Courses,SSEDHNITGE11A
+Total Enrolment in Institutes of National Importance - Integrated Courses,SSEDHNITIE11A
+Total Enrolment in Institutes of National Importance - Diploma Courses,SSEDHNITLE11A
+Total Enrolment in Institutes of National Importance - MPhil Course,SSEDHNITME11A
+Total Enrolment in Institutes of National Importance - PhD Course,SSEDHNITPE11A
+Total Enrolment in Institutes of National Importance,SSEDHNITTE11A
+Total Enrolment in Institutes of National Importance - Under Graduate Courses,SSEDHNITUE11A
+Total Enrolment in State Private Open University - Certificate Courses (Female),SSEDHPOFCE11A
+Total Enrolment in State Private Open University - Post Graduate Diploma Courses (Female),SSEDHPOFDE11A
+Total Enrolment in State Private Open University - Post Graduate Courses (Female),SSEDHPOFGE11A
+Total Enrolment in State Private Open University - Integrated Courses (Female),SSEDHPOFIE11A
+Total Enrolment in State Private Open University - Diploma Courses (Female),SSEDHPOFLE11A
+Total Enrolment in State Private Open University - MPhil Course (Female),SSEDHPOFME11A
+Total Enrolment in State Private Open University - PhD Course (Female),SSEDHPOFPE11A
+Total Enrolment in State Private Open University (Female),SSEDHPOFTE11A
+Total Enrolment in State Private Open University - Under Graduate Courses (Female),SSEDHPOFUE11A
+Total Enrolment in State Private Open University - Certificate Courses (Male),SSEDHPOMCE11A
+Total Enrolment in State Private Open University - Post Graduate Diploma Courses (Male),SSEDHPOMDE11A
+Total Enrolment in State Private Open University - Post Graduate Courses (Male),SSEDHPOMGE11A
+Total Enrolment in State Private Open University - Diploma Courses (Male),SSEDHPOMLE11A
+Total Enrolment in State Private Open University - MPhil Course (Male),SSEDHPOMME11A
+Total Enrolment in State Private Open University - PhD Course (Male),SSEDHPOMPE11A
+Total Enrolment in State Private Open University (Male),SSEDHPOMTE11A
+Total Enrolment in State Private Open University - Under Graduate Courses (Male),SSEDHPOMUE11A
+Total Enrolment in State Private Open University - Certificate Courses,SSEDHPOTCE11A
+Total Enrolment in State Private Open University - Post Graduate Diploma Courses,SSEDHPOTDE11A
+Total Enrolment in State Private Open University - Post Graduate Courses,SSEDHPOTGE11A
+Total Enrolment in State Private Open University - Integrated Courses,SSEDHPOTIE11A
+Total Enrolment in State Private Open University - Diploma Courses,SSEDHPOTLE11A
+Total Enrolment in State Private Open University - MPhil Course,SSEDHPOTME11A
+Total Enrolment in State Private Open University - PhD Course,SSEDHPOTPE11A
+Total Enrolment in State Private Open University,SSEDHPOTTE11A
+Total Enrolment in State Private Open University - Under Graduate Courses,SSEDHPOTUE11A
+Total Enrolment in Institutes under State Legistrature Acts - Certificate Courses (Female),SSEDHSLFCE11A
+Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Diploma Courses (Female),SSEDHSLFDE11A
+Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Courses (Female),SSEDHSLFGE11A
+Total Enrolment in Institutes under State Legistrature Acts - Integrated Courses (Female),SSEDHSLFIE11A
+Total Enrolment in Institutes under State Legistrature Acts - Diploma Courses (Female),SSEDHSLFLE11A
+Total Enrolment in Institutes under State Legistrature Acts - MPhil Course (Female),SSEDHSLFME11A
+Total Enrolment in Institutes under State Legistrature Acts - PhD Course (Female),SSEDHSLFPE11A
+Total Enrolment in Institutes under State Legistrature Acts (Female),SSEDHSLFTE11A
+Total Enrolment in Institutes under State Legistrature Acts - Certificate Courses (Male),SSEDHSLMCE11A
+Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Diploma Courses (Male),SSEDHSLMDE11A
+Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Courses (Male),SSEDHSLMGE11A
+Total Enrolment in Institutes under State Legistrature Acts - Integrated Courses (Male),SSEDHSLMIE11A
+Total Enrolment in Institutes under State Legistrature Acts - Diploma Courses (Male),SSEDHSLMLE11A
+Total Enrolment in Institutes under State Legistrature Acts - MPhil Course (Male),SSEDHSLMME11A
+Total Enrolment in Institutes under State Legistrature Acts - PhD Course (Male),SSEDHSLMPE11A
+Total Enrolment in Institutes under State Legistrature Acts (Male),SSEDHSLMTE11A
+Total Enrolment in Institutes under State Legistrature Acts - Under Graduate Courses (Male),SSEDHSLMUE11A
+Total Enrolment in Institutes under State Legistrature Acts - Certificate Courses,SSEDHSLTCE11A
+Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Diploma Courses,SSEDHSLTDE11A
+Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Courses,SSEDHSLTGE11A
+Total Enrolment in Institutes under State Legistrature Acts - Integrated Courses,SSEDHSLTIE11A
+Total Enrolment in Institutes under State Legistrature Acts - Diploma Courses,SSEDHSLTLE11A
+Total Enrolment in Institutes under State Legistrature Acts - MPhil Course,SSEDHSLTME11A
+Total Enrolment in Institutes under State Legistrature Acts - PhD Course,SSEDHSLTPE11A
+Total Enrolment in Institutes under State Legistrature Acts - Under Graduate Courses,SSEDHSLTUE11A
+Total Enrolment in State Open University - Certificate Courses (Female),SSEDHSOFCE11A
+Total Enrolment in State Open University - Post Graduate Diploma Courses (Female),SSEDHSOFDE11A
+Total Enrolment in State Open University - Post Graduate Courses (Female),SSEDHSOFGE11A
+Total Enrolment in State Open University - Integrated Courses (Female),SSEDHSOFIE11A
+Total Enrolment in State Open University - Diploma Courses (Female),SSEDHSOFLE11A
+Total Enrolment in State Open University - MPhil Course (Female),SSEDHSOFME11A
+Total Enrolment in State Open University - PhD Course (Female),SSEDHSOFPE11A
+Total Enrolment in State Open University (Female),SSEDHSOFTE11A
+Total Enrolment in State Open University - Under Graduate Courses (Female),SSEDHSOFUE11A
+Total Enrolment in State Open University - Certificate Courses (Male),SSEDHSOMCE11A
+Total Enrolment in State Open University - Post Graduate Diploma Courses (Male),SSEDHSOMDE11A
+Total Enrolment in State Open University - Post Graduate Courses (Male),SSEDHSOMGE11A
+Total Enrolment in State Open University - Integrated Courses (Male),SSEDHSOMIE11A
+Total Enrolment in State Open University - Diploma Courses (Male),SSEDHSOMLE11A
+Total Enrolment in State Open University - MPhil Course (Male),SSEDHSOMME11A
+Total Enrolment in State Open University - PhD Course (Male),SSEDHSOMPE11A
+Total Enrolment in State Open University (Male),SSEDHSOMTE11A
+Total Enrolment in State Open University - Under Graduate Courses (Male),SSEDHSOMUE11A
+Total Enrolment in State Open University - Certificate Courses,SSEDHSOTCE11A
+Total Enrolment in State Open University - Post Graduate Diploma Courses,SSEDHSOTDE11A
+Total Enrolment in State Open University - Post Graduate Courses,SSEDHSOTGE11A
+Total Enrolment in State Open University - Diploma Courses,SSEDHSOTLE11A
+Total Enrolment in State Open University - MPhil Course,SSEDHSOTME11A
+Total Enrolment in State Open University - PhD Course,SSEDHSOTPE11A
+Total Enrolment in State Open University,SSEDHSOTTE11A
+Total Enrolment in State Open University - Under Graduate Courses,SSEDHSOTUE11A
+Total Enrolment in State Public University - Certificate Courses (Female),SSEDHSPFCE11A
+Total Enrolment in State Public University - Post Graduate Diploma Courses (Female),SSEDHSPFDE11A
+Total Enrolment in State Public University - Post Graduate Courses (Female),SSEDHSPFGE11A
+Total Enrolment in State Public University - Integrated Courses (Female),SSEDHSPFIE11A
+Total Enrolment in State Public University - Diploma Courses (Female),SSEDHSPFLE11A
+Total Enrolment in State Public University - MPhil Course (Female),SSEDHSPFME11A
+Total Enrolment in State Public University - PhD Course (Female),SSEDHSPFPE11A
+Total Enrolment in State Public University (Female),SSEDHSPFTE11A
+Total Enrolment in State Public University - Under Graduate Courses (Female),SSEDHSPFUE11A
+Total Enrolment in State Public University - Certificate Courses (Male),SSEDHSPMCE11A
+Total Enrolment in State Public University - Post Graduate Diploma Courses (Male),SSEDHSPMDE11A
+Total Enrolment in State Public University - Post Graduate Courses (Male),SSEDHSPMGE11A
+Total Enrolment in State Public University - Integrated Courses (Male),SSEDHSPMIE11A
+Total Enrolment in State Public University - Diploma Courses (Male),SSEDHSPMLE11A
+Total Enrolment in State Public University - MPhil Course (Male),SSEDHSPMME11A
+Total Enrolment in State Public University - PhD Course (Male),SSEDHSPMPE11A
+Total Enrolment in State Public University (Male),SSEDHSPMTE11A
+Total Enrolment in State Public University - Under Graduate Courses (Male),SSEDHSPMUE11A
+Total Enrolment in State Public University - Certificate Courses,SSEDHSPTCE11A
+Total Enrolment in State Public University - Post Graduate Diploma Courses,SSEDHSPTDE11A
+Total Enrolment in State Public University - Post Graduate Courses,SSEDHSPTGE11A
+Total Enrolment in State Public University - Integrated Courses,SSEDHSPTIE11A
+Total Enrolment in State Public University - Diploma Courses,SSEDHSPTLE11A
+Total Enrolment in State Public University - MPhil Course,SSEDHSPTME11A
+Total Enrolment in State Public University - PhD Course,SSEDHSPTPE11A
+Total Enrolment in State Public University,SSEDHSPTTE11A
+Total Enrolment in State Public University - Under Graduate Courses,SSEDHSPTUE11A
+Total Enrolment in State Private University - Certificate Courses (Female),SSEDHSVFCE11A
+Total Enrolment in State Private University - Post Graduate Diploma Courses (Female),SSEDHSVFDE11A
+Total Enrolment in State Private University - Post Graduate Courses (Female),SSEDHSVFGE11A
+Total Enrolment in State Private University - Integrated Courses (Female),SSEDHSVFIE11A
+Total Enrolment in State Private University - Diploma Courses (Female),SSEDHSVFLE11A
+Total Enrolment in State Private University - MPhil Course (Female),SSEDHSVFME11A
+Total Enrolment in State Private University - PhD Course (Female),SSEDHSVFPE11A
+Total Enrolment in State Private University (Female),SSEDHSVFTE11A
+Total Enrolment in State Private University - Under Graduate Courses (Female),SSEDHSVFUE11A
+Total Enrolment in State Private University - Certificate Courses (Male),SSEDHSVMCE11A
+Total Enrolment in State Private University - Post Graduate Courses (Male),SSEDHSVMGE11A
+Total Enrolment in State Private University - Integrated Courses (Male),SSEDHSVMIE11A
+Total Enrolment in State Private University - Diploma Courses (Male),SSEDHSVMLE11A
+Total Enrolment in State Private University - MPhil Course (Male),SSEDHSVMME11A
+Total Enrolment in State Private University (Male),SSEDHSVMTE11A
+Total Enrolment in State Private University - Under Graduate Courses (Male),SSEDHSVMUE11A
+Total Enrolment in State Private University - Certificate Courses,SSEDHSVTCE11A
+Total Enrolment in State Private University - Post Graduate Diploma Courses,SSEDHSVTDE11A
+Total Enrolment in State Private University - Post Graduate Courses,SSEDHSVTGE11A
+Total Enrolment in State Private University - Integrated Courses,SSEDHSVTIE11A
+Total Enrolment in State Private University - Diploma Courses,SSEDHSVTLE11A
+Total Enrolment in State Private University - MPhil Course,SSEDHSVTME11A
+Total Enrolment in State Private University - PhD Course,SSEDHSVTPE11A
+Total Enrolment in State Private University,SSEDHSVTTE11A
+Total Number of Teachers in Higher Education - Associate Professors (Female),SSEDHTCAPF11A
+Total Number of Teachers in Higher Education - Associate Professors (Male),SSEDHTCAPM11A
+Total Number of Teachers in Higher Education (Female),SSEDHTCATF11A
+Total Number of Teachers in Higher Education (Male),SSEDHTCATM11A
+Total Number of Teachers in Higher Education - Professors (Female),SSEDHTCPRF11A
+Total Number of Teachers in Higher Education - Professors (Male),SSEDHTCPRM11A
+Total Number of Teachers in Higher Education - Professors,SSEDHTCPRT11A
+Total Number of Teachers in Higher Education - Assistant Professors (Female),SSEDHTCSTF11A
+Total Number of Teachers in Higher Education - Assistant Professors (Male),SSEDHTCSTM11A
+Total Number of Teachers in Higher Education - Assistant Professors,SSEDHTCSTT11A
+Total Number of Teachers in Higher Education - Temporary Teachers (Female),SSEDHTCTTF11A
+Total Number of Teachers in Higher Education - Temporary Teachers (Male),SSEDHTCTTM11A
+Total Number of Teachers in Higher Education - Temporary Teachers,SSEDHTCTTT11A
+Total Number of Teachers in Higher Education - Tutors (Female),SSEDHTCTUF11A
+Total Number of Teachers in Higher Education - Tutors,SSEDHTCTUT11A
+Total Number of Teachers in Higher Education - Visiting Teachers,SSEDHTCVTT11A
+Total Enrolment in Deemed University - Private - Certificate Courses (Female),SSEDHUNFCE11A
+Total Enrolment in Deemed University - Private - Post Graduate Diploma Courses (Female),SSEDHUNFDE11A
+Total Enrolment in Deemed University - Private - Post Graduate Courses (Female),SSEDHUNFGE11A
+Total Enrolment in Deemed University - Private - Integrated Courses (Female),SSEDHUNFIE11A
+Total Enrolment in Deemed University - Private - Diploma Courses (Female),SSEDHUNFLE11A
+Total Enrolment in Deemed University - Private - MPhil Course (Female),SSEDHUNFME11A
+Total Enrolment in Deemed University - Private - PhD Course (Female),SSEDHUNFPE11A
+Total Enrolment in Deemed University - Private (Female),SSEDHUNFTE11A
+Total Enrolment in Deemed University - Private - Under Graduate Courses (Female),SSEDHUNFUE11A
+Total Enrolment in Deemed University - Private - Certificate Courses (Male),SSEDHUNMCE11A
+Total Enrolment in Deemed University - Private - Post Graduate Diploma Courses (Male),SSEDHUNMDE11A
+Total Enrolment in Deemed University - Private - Post Graduate Courses (Male),SSEDHUNMGE11A
+Total Enrolment in Deemed University - Private - Integrated Courses (Male),SSEDHUNMIE11A
+Total Enrolment in Deemed University - Private - Diploma Courses (Male),SSEDHUNMLE11A
+Total Enrolment in Deemed University - Private - MPhil Course (Male),SSEDHUNMME11A
+Total Enrolment in Deemed University - Private - PhD Course (Male),SSEDHUNMPE11A
+Total Enrolment in Deemed University - Private (Male),SSEDHUNMTE11A
+Total Enrolment in Deemed University - Private - Under Graduate Courses (Male),SSEDHUNMUE11A
+Total Enrolment in State Private University - Post Graduate Diploma Courses (Male),SSEDHSVMDE11A
+Total Number of Teachers in Higher Education - Associate Professors,SSEDHTCAPT11A
+Total Enrolment in Deemed University - Private - Certificate Courses,SSEDHUNTCE11A
+Total Number of Teachers in Higher Education - Tutors (Male),SSEDHTCTUM11A
+Total Enrolment in Deemed University - Private - Post Graduate Diploma Courses,SSEDHUNTDE11A
+Total Enrolment in Deemed University - Private - Post Graduate Courses,SSEDHUNTGE11A
+Total Enrolment in Deemed University - Private - Integrated Courses,SSEDHUNTIE11A
+Total Enrolment in Deemed University - Private - Diploma Courses,SSEDHUNTLE11A
+Total Enrolment in Deemed University - Private - MPhil Course,SSEDHUNTME11A
+Total Enrolment in Deemed University - Private - PhD Course,SSEDHUNTPE11A
+Total Enrolment in Deemed University - Private,SSEDHUNTTE11A
+Total Enrolment in Deemed University - Private - Under Graduate Courses,SSEDHUNTUE11A
+Percentage of enrolled children able to identify less than 4 out of 5 single digit numbers,SSEDMAALEA11A
+Percentage of enrolled children able to identify 4 out 5 single digit numbers,SSEDMAALEB11A
+Percentage of enrolled children able to 4 out of 5 two digit numbers,SSEDMAALEC11A
+Percentage of enrolled children able to do two digit subtraction with carryover,SSEDMAALED11A
+Percentage of enrolled children able to do three digit by one digit division,SSEDMAALEE11A
+Percentage of enrolled boys able to identify less than 4 out of 5 single digit numbers,SSEDMABLEA11A
+Percentage of enrolled boys able to identify 4 out 5 single digit numbers,SSEDMABLEB11A
+Percentage of enrolled boys able to 4 out of 5 two digit numbers,SSEDMABLEC11A
+Percentage of enrolled boys able to do two digit subtraction with carryover,SSEDMABLED11A
+Percentage of enrolled boys able to do three digit by one digit division,SSEDMABLEE11A
+Percentage of enrolled girls able to identify 4 out 5 single digit numbers,SSEDMAGLEB11A
+Percentage of enrolled girls able to 4 out of 5 two digit numbers,SSEDMAGLEC11A
+Percentage of enrolled girls able to do two digit subtraction with carryover,SSEDMAGLED11A
+Percentage of enrolled girls able to do three digit by one digit division,SSEDMAGLEE11A
+Total Enrolment in Other Universities - Certificate Courses (Female),SSEDSOTFCE11A
+Total Enrolment in Other Universities - Post Graduate Diploma Courses (Female),SSEDSOTFDE11A
+Total Enrolment in Other Universities - Post Graduate Courses (Female),SSEDSOTFGE11A
+Total Enrolment in Other Universities - Integrated Courses (Female),SSEDSOTFIE11A
+Total Enrolment in Other Universities - Diploma Courses (Female),SSEDSOTFLE11A
+Total Enrolment in Other Universities - MPhil Course (Female),SSEDSOTFME11A
+Total Enrolment in Other Universities - PhD Course (Female),SSEDSOTFPE11A
+Total Enrolment in Other Universities (Female),SSEDSOTFTE11A
+Total Enrolment in Other Universities - Under Graduate Courses (Female),SSEDSOTFUE11A
+Total Enrolment in Other Universities - Certificate Courses (Male),SSEDSOTMCE11A
+Total Enrolment in Other Universities - Post Graduate Diploma Courses (Male),SSEDSOTMDE11A
+Total Enrolment in Other Universities - Post Graduate Courses (Male),SSEDSOTMGE11A
+Total Enrolment in Other Universities - Integrated Courses (Male),SSEDSOTMIE11A
+Total Enrolment in Other Universities - Diploma Courses (Male),SSEDSOTMLE11A
+Total Enrolment in Other Universities - MPhil Course (Male),SSEDSOTMME11A
+Total Enrolment in Other Universities - PhD Course (Male),SSEDSOTMPE11A
+Total Enrolment in Other Universities (Male),SSEDSOTMTE11A
+Total Enrolment in Other Universities - Under Graduate Courses (Male),SSEDSOTMUE11A
+Total Enrolment in Other Universities - Certificate Courses,SSEDSOTTCE11A
+Total Enrolment in Other Universities - Post Graduate Diploma Courses,SSEDSOTTDE11A
+Total Enrolment in Other Universities - Post Graduate Courses,SSEDSOTTGE11A
+Total Enrolment in Other Universities - Integrated Courses,SSEDSOTTIE11A
+Total Enrolment in Other Universities - MPhil Course,SSEDSOTTME11A
+Total Enrolment in Other Universities - PhD Course,SSEDSOTTPE11A
+Total Enrolment in Other Universities,SSEDSOTTTE11A
+Total Enrolment in Other Universities - Under Graduate Courses,SSEDSOTTUE11A
+Number of Universities in India - Deemed University - Government,SSEDUNIDUG11A
+Number of Universities in India - Deemed University - Private,SSEDUNIDUP11A
+Number of Universities in India - Institutes of National Importance,SSEDUNIINI11A
+Number of Universities in India - State University - Public,SSEDUNISPU11A
+Number of Universities in India - State University - Private,SSEDUNISPV11A
+Number of Universities in India,SSEDUNITOT11A
+Total Enrolment in Deemed University - Government - PhD Course,SSEDHDUTPE11A
+Estimated Enrolment of Students in Higher Education in Post Graduate Courses,SSEDHEETPG11A
+Total Enrolment in State Private Open University - Integrated Courses (Male),SSEDHPOMIE11A
+Total Enrolment in Institutes under State Legistrature Acts - Under Graduate Courses (Female),SSEDHSLFUE11A
+Total Enrolment in Institutes under State Legistrature Acts,SSEDHSLTTE11A
+Total Enrolment in State Open University - Integrated Courses,SSEDHSOTIE11A
+Total Enrolment in State Private University - PhD Course (Male),SSEDHSVMPE11A
+Total Enrolment in State Private University - Under Graduate Courses,SSEDHSVTUE11A
+Total Number of Teachers in Higher Education,SSEDHTCATT11A
+Total Number of Teachers in Higher Education - Visiting Teachers (Female),SSEDHTCVTF11A
+Total Number of Teachers in Higher Education - Visiting Teachers (Male),SSEDHTCVTM11A
+Percentage of enrolled girls able to identify less than 4 out of 5 single digit numbers,SSEDMAGLEA11A
+Total Enrolment in Other Universities - Diploma Courses,SSEDSOTTLE11A
+Number of Universities in India - Central University,SSEDUNICUN11A
+Number of Universities in India - Deemed University - Govt Aided,SSEDUNIDUA11A

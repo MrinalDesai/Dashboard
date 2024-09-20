@@ -4,7 +4,7 @@ import streamlit as st
 from streamlit_folium import folium_static
 import branca.colormap as cm
 
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="Map",page_icon="🗺️",)
 json1 = f"states_india.geojson"
 
 m = folium.Map(location=[23.47, 77.94], tiles='Cartodbdark_matter',name="Light Map",
@@ -39,4 +39,4 @@ folium.Choropleth(
 folium.features.GeoJson('states_india.geojson', name="LSOA Code",
                            popup=folium.features.GeoJsonPopup(fields=['st_nm',])).add_to(m)
 folium.FeatureGroup(name="Your Text Here",overlay=True,control=True)
-folium_static(m, width=1600, height=950)
+folium_static(m, width=1200, height=950)

@@ -1,10 +1,32 @@
 import os
-# from dotenv import load_dotenv
+# Import the necessary module
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
+
+from streamlit_pdf_viewer import pdf_viewer
 from snowflake import connector
 from snowflake.snowpark import Session
 from snowflake.cortex import Summarize, Complete, ExtractAnswer, Sentiment, Translate
 import streamlit as st
+
+
+############################################################
+
+# Import the necessary module
+from dotenv import load_dotenv
+import os
+load_dotenv()
+PASSWORD = os.getenv('PASSWORD')
+USER2 = os.getenv('USER2')
+ACCOUNT2 = os.getenv('ACCOUNT2')
+
+############################################################
+
+st.set_page_config(page_title="Lets ask AI",
+                   page_icon="🧠",
+                   )
 
 # Load environment variables from .env
 # load_dotenv()
@@ -21,9 +43,9 @@ import streamlit as st
 # }
 
 connection_params = {
-    "account": "sibsego-vub12130",
-    "user": "mrinalsnow2",
-    "password": "passSNOW@1234",
+    "account": ACCOUNT2,
+    "user": USER2,
+    "password": PASSWORD,
     "database":"CC_QUICKSTART_CORTEX_DOCS",
     "schema": "DATA"
     # "role":"ACCOUNTADMIN"
@@ -110,9 +132,21 @@ def display_response (question, model, rag=0):
 
 #Main code
 
-st.title("Asking Questions to Your Own Documents with Snowflake Cortex:")
+st.title("Lets Use :red[Cortex]🤖 to Find some answers 🧠:")
+st.subheader("#️⃣Lets use AI to seek some solutions")
+st.write("""Below 📃Report is used to provide Context""")
+with st.expander("UNIFIED DISTRICT INFORMATION SYSTEM FOR EDUCATION PLUS (UDISE+)"):
+       st.image("Report_Image.png")
+  
 st.write("""You can ask questions and decide if you want to use your documents for context or allow the model to create their own response.""")
-st.write("This is the list of documents you already have:")
+
+st.subheader("🚩👣Steps to Use")
+st.write("""🚩Select your Model on the Left Pane.Check if you want to use the Document as Context""")
+st.subheader("Here are some sample Questions")
+st.write("❓What is Pupil to Teacher Ratio")
+st.write("❓How Can we improve Pupil Teacher Ratio")
+st.write("❓Whats is  NISHTHA Training")
+st.write("📃This is the list of documents you already have")
 docs_available = session.sql("ls @docs").collect()
 list_docs = []
 for doc in docs_available:
@@ -130,10 +164,10 @@ model = st.sidebar.selectbox('Select your model:',(
                                      'mistral-7b',
                                      'llama2-70b-chat',
                                      'gemma-7b'))
+st.subheader("✏️Type your question here✏️")
+question = st.text_input("What does the document say", placeholder="How do we improve the Pupil Teacher Ratio in India?", label_visibility="collapsed")
 
-question = st.text_input("What does the document say", placeholder="Is there any special lubricant to be used with the premium bike?", label_visibility="collapsed")
-
-rag = st.sidebar.checkbox('Use your own documents as context?')
+rag = st.sidebar.checkbox('🚩Use the Report as context?')
 
 print (rag)
 
@@ -144,3 +178,8 @@ else:
 
 if question:
     display_response (question, model, use_rag)
+
+
+st.subheader("📄Report on UNIFIED DISTRICT INFORMATION SYSTEM FOR EDUCATION 2021-22📄:Wait till it loads")
+
+pdf_viewer("udise_21_22.pdf")

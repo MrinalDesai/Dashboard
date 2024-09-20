@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 from PIL import Image
 
-st.set_page_config(page_title='Student to Pupil_Ratio')
+st.set_page_config(page_title='👨🏻‍🏫Teacher to 👩🏻‍🎓Pupil Ratio',page_icon="👨🏻‍🏫👩🏻‍🎓")
 st.header('Student Pupil Ratio States Yearwise')
 st.subheader('Apply Filters')
 

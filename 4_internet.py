@@ -3,8 +3,11 @@ import streamlit as st
 import plotly.express as px
 from PIL import Image
 
+st.set_page_config(page_title="Internet landscape",
+                   page_icon="🌍",
+                   )
 
-st.set_page_config(page_title='Internet landscape')
+
 st.header('Trends In Internet Landscape')
 st.subheader('Apply Filters')
 
