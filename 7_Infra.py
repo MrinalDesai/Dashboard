@@ -9,6 +9,31 @@ from plotly.subplots import make_subplots
 st.set_page_config(page_title="Internet Infrastructure",
                    page_icon="🌍",
                    )
+
+st.header('Infrastructure in Schools for Digital Learning and PeerLearning')
+
+st.subheader("School Resources")
+st.write("""\n Despite Govt emphasis on Digitisation only 30-40% percent of Govt Scoold have Laptops/ Pcs for learning 
+         and less than 25% Mobile for Education Purposes.
+
+         \nIn the “Integrated education” model “whenever possible, students with disabilities attend a regular school”. 
+         The emphasis, however, is upon the student to fit the system rather than the system to adapt to meet the educational needs of a student.
+         This too is Lacking.
+
+         \nPeer learning is when students teach each other.Peer learning has emerged as a valuable pedagogical approach in the 
+         Indian education system, encouraging collaborative learning and knowledge-sharing among students. 
+         Peer learning has gained significant recognition in education across the globe, promoting collaborative 
+         learning and enhancing academic performance.
+
+         \nAnalyzing peer learning implementation in government and government-aided schools in India highlights the overall 
+         positive adoption trend at different educational levels. The analysis of peer learning reveals successful and 
+         emerging efforts to integrate collaborative learning practices into the education system. While primary and upper 
+         primary schools demonstrate higher acceptance, there is a need to further promote and integrate peer learning 
+         practices in secondary and higher secondary schools.
+
+         \nPeer Learning has become a good Solution to compensate for Lack of Teachers
+""")
+
 df_CF=pd.read_csv(f'infra/per/by Management and Availability of Computer Facility during 2021-22.csv')
 df_CFP=pd.read_csv(f'infra/per/by Management and Availability of Computer Facility during 2021-22_Per.csv')
 df_LabsP=pd.read_csv(f'infra/per/Details of Information and Communication Technology (ICT) Labs, Smart Classrooms and Tabs Sanctioned for Teacher Resource Package_no.csv')

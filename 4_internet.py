@@ -9,6 +9,25 @@ st.set_page_config(page_title="Internet landscape",
 
 
 st.header('Trends In Internet Landscape')
+st.write("""Online Learning is the best way to compensate for the low Pupil Teacher Ratio
+         Internet connectivity in India is on the rise. With govenment recognising its importance and also 
+         private Players playing an Active part the feasability of Online Platforms becomes even more viable.
+         BSNL/MTNL lags Behind the private Players but active Goventment Funding can reduce the Gap.
+         Wireless Broadband Connections enable Mobility for Students and Ensure more accessibility 
+         of Education to Population.
+         
+         """)
+
+st.write("""
+         Internet speeds are vital KPI for providing online education so that Classes can be streamed across wide variety of users
+         .The Internet connectivity has steadily Improved in India.Below we have Internet Speed Data of Internet Service Providers""")
+st.write("""Below is the Internet Speed Data which shows a upward trend over the years 
+         BSNL however lags Behind the private Players.
+         
+         """)
+st.subheader("#️⃣India Telecom Data About Internet Speed 2018-2023-MySpeed📌 ", divider="gray")
+st.write("""""")
+
 st.subheader('Apply Filters')
 
 
@@ -58,6 +77,8 @@ fig_speed = px.bar(df_speed_grouped, x="Service Provider", y="Data Speed(Mbps)",
 
 st.plotly_chart(fig_speed)
 
+st.subheader("#️⃣India Telecom Data About Data Usage and per GB Tariff📌 ", divider="gray")
+st.write("""As we see below the Data Usage as well Subscribers acoross country have steadily Increased""")
 
 df_tariff = pd.read_csv(f'internet/Quarter wise Wireless Data Usage and per GB Tariff Qtr1 2017-18 to Qtr3 2022-23.csv')
 
@@ -117,6 +138,9 @@ fig_tariff .update_xaxes(title_text="Duration Quarterly 2017-2023")
 # Set y-axes titles
 fig_tariff .update_yaxes(title_text="<b>Tariff per GB </b>(Rs.)", secondary_y=False)
 fig_tariff .update_layout(showlegend=True)
+
+st.write("""Another Positive trend we see is the Decreasing Tariff which makes it more Affordable for the masses
+         Wireless Technology enables users to access Classes while on the Go and overcomes location criteria""")
 
 st.plotly_chart(fig_tariff)
 
@@ -180,12 +204,14 @@ fig_mtnl_usage.update_xaxes(title_text="Duration Month")
 fig_mtnl_usage.update_yaxes(title_text="<b>'Data Consumption' </b>(TB)", secondary_y=False)
 fig_mtnl_usage.update_yaxes(title_text="<b>'No. Digital Payments'</b>(Lakhs)", secondary_y=True)
 
-
+st.subheader("#️⃣MTNL📌 ", divider="gray")
+st.write("""Government Players however have not performed well and need to catch up""")
 
 st.plotly_chart(fig_mtnl_usage)
 
 
-
+st.subheader("#️⃣Teledensity📌 ", divider="gray")
+st.write("""Government needs to Improve Teledensity in Rural Sectors. Urbanisation of Rural areas will reduce this problem""")
 
 df_pene = pd.read_csv(f'internet/StateUT-wise Details of Internet Penetration (Internet Subscribers per 100 Population) in UrbanRural Areas of the Country as on 31st March 2024.csv')
 df_pene['State/UT']=df_pene['State/UT'].replace('Total', 'INDIA')
@@ -300,6 +326,8 @@ fig_sub.update_xaxes(title_text="Duration Month April_2014-to-Dec_2022")
 # Set y-axes titles
 fig_sub.update_yaxes(title_text="<b>Subscribers </b>(Crore)", secondary_y=False)
 
+st.subheader("#️⃣Type of Connections📌 ", divider="gray")
+st.write("""Among the Technologies Broadband connections are on the rise but here also the Rural sector lags behind.""")
 
 st.plotly_chart(fig_sub)
 
@@ -327,7 +355,7 @@ fig_wr.add_trace(
 
 # Add fig_wrure title
 fig_wr.update_layout(
-    title_text="Month-wise Broadband Subscribers Wireline vs Wireless April 2014 to Dec 2022"
+    title_text="Month-wise Broadband Subscribers Wireline vs Wireless Apr 2014-Dec 2022"
 )
 
 # Set x-axis title
@@ -335,6 +363,7 @@ fig_wr.update_xaxes(title_text="Duration Month April_2014-to-Dec_2022")
 
 # Set y-axes titles
 fig_wr.update_yaxes(title_text="<b>Subscribers </b>(Crore)", secondary_y=False)
+
 
 st.plotly_chart(fig_wr)
 
@@ -358,10 +387,12 @@ fig_bsnl_sub = go.Figure(data=[go.Table(
 ])
 # Add fig_subure title
 fig_bsnl_sub.update_layout(
-    title_text="Subscribers In Crores of Bharat Sanchar Nigam Limited (BSNL) from 2016 to 2020"
+    title_text="Subscribers In Crores of (BSNL)2016-20"
 )
 
 
+st.subheader("#️⃣BSNL📌 ", divider="gray")
+st.write("""BSNL subscribers have remained relatively constant over the years.""")
 
 st.plotly_chart(fig_bsnl_sub)
 
@@ -382,8 +413,11 @@ fig_bsnl_pl = go.Figure(data=[go.Table(
 ])
 # Add fig_subure title
 fig_bsnl_pl.update_layout(
-    title_text="ProfitLoss of Bharat Sanchar Nigam Limited (BSNL) and Mahanagar Telephone Nigam Limited (MTNL)"
+    title_text="ProfitLoss of (BSNL) and (MTNL) Crores"
 )
+
+st.subheader("#️⃣BSNL/MTNL Performance📌 ", divider="gray")
+st.write("""BSNL and MTNL has suferred heavy losses over the years.""")
 st.plotly_chart(fig_bsnl_pl)
 
 import plotly.graph_objects as go
@@ -403,6 +437,19 @@ fig_bsnl_funds = go.Figure(data=[go.Table(
 ])
 # Add fig_subure title
 fig_bsnl_funds.update_layout(
-    title_text="ProfitLoss of Bharat Sanchar Nigam Limited (BSNL) and Mahanagar Telephone Nigam Limited (MTNL)"
+    title_text="ProfitLoss of (BSNL) and (MTNL)"
 )
+
+st.subheader("#️⃣Government Funding📌 ", divider="gray")
+st.write("""BSNL has recieved good amount of Funding from the Govt.""")
+# st.plotly_chart(fig_bsnl_pl)
 st.plotly_chart(fig_bsnl_funds)
+
+
+st.header('Summary')
+st.write("""
+Above all Satistics Indicate that the trend of Online learning will Continue. With Private players performing well
+         and Govt playing an active part Future for online learning remains bright.
+
+
+""")

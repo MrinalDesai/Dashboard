@@ -8,8 +8,25 @@ from plotly.subplots import make_subplots
 st.set_page_config(page_title='Training',page_icon="📖",
 )
 st.header('Data About Teacher Training')
-st.subheader('Apply Filters')
+st.subheader('')
+st.write(''' \nGovenment has come up with Various Programs for Teacher Training.
+         Below stats reflect some of these.
+         The Department of School Education and Literacy has launched a National Mission to improve 
+         learning outcomes at the elementary level through an Integrated Teacher Training Programme 
+         called NISHTHA under the Centrally Sponsored Scheme of Samagra Shiksha in 2019-20.
 
+         \nNISHTHA is a capacity building programme for "Improving Quality of School Education through 
+         Integrated Teacher Training". It aims to build competencies among all the teachers and 
+         school principals at the elementary stage. NISHTHA is the world's largest teachers' 
+         training programme of its kind.The basic objective of this massive training programme 
+         is to motivate and equip teachers to encourage and foster critical thinking in students. 
+         The initiative is first of its kind wherein standardized training modules are developed at 
+         national level for all States and UTs.
+
+
+
+
+         ''')
 
 df_train = pd.read_csv(f'training/Programme-wise Number of Elementary, Secondary and Pre-primary Teachers Trained so far under NISHTHA Training Programme (in reply to Unstarred Question on 15 March, 2023).csv')
 df_train .drop(['Sl. No.'], axis=1,inplace=True)
@@ -44,7 +61,19 @@ fig_df_train_inst = px.bar(df_train_inst[df_train_inst['State/UT']!='Total'], x=
  
 st.plotly_chart(fig_df_train_inst)
 
+st.write("""\nIn accordance with the provisions of sub-section (1) of Section 23 of the RTE Act, 
+         the National Council for Teacher Education (NCTE) vide Notification dated 23rd August, 
+         2010 and 29th JULY, 2011 laid down the minimum qualifications for a person to be eligible 
+         for appointment as a teacher for class I to VIII. It had been inter alia provided that 
+         one of the essential qualifications for a person to be eligible for appointment as a 
+         teacher in any of the schools referred to in Clause (n) of section 2 of the RTE Act 
+         is that he/she should pass the Teacher Eligibility Test (TET) which will be conducted
+          by the appropriate Government in accordance with the Guidelines framed by the NCTE.
 
+         \nThe Ministry of Education, Govt. of India has entrusted the responsibility of conducting 
+         the Central Teacher Eligibility Test (CTET) to the Central Board of Secondary Education Delhi.
+         Passing Rate appears to be low.
+""")
 
 df_exam = pd.read_csv(f'training/Month Year-wise Passing Percentage of Central Teacher Eligibility Test (CTET) Result form Dec-2018 to Jan-2021.csv')
 fig_df_exam  = go.Figure(data=[go.Table(
@@ -61,11 +90,17 @@ fig_df_exam  = go.Figure(data=[go.Table(
 ])
 # Add fig_subure title
 fig_df_exam .update_layout(
-    title_text="Month Year-wise Passing Percentage of Central Teacher Eligibility Test (CTET) Result form Dec-2018"
+    title_text="Month Year-wise Passing Perct of Central Teacher Eligibility Test(CTET)"
 )
 
 
 st.plotly_chart(fig_df_exam)
+
+
+st.write("""\nBelow Data Gives a clear picture of Percentage of trained teachers.Some figures reflect percentages as low as 50-60%
+
+         \nThis treans
+""")
 
 df_perct = pd.read_csv(f'training/StateUT-wise Percentage of Trained Teachers All Types of Management by Gender and Level of School Education during 2021-22 - cleaned.csv')
 

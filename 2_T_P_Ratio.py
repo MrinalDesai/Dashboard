@@ -5,7 +5,7 @@ from PIL import Image
 
 st.set_page_config(page_title='👨🏻‍🏫Teacher to 👩🏻‍🎓Pupil Ratio',page_icon="👨🏻‍🏫👩🏻‍🎓")
 st.header('Student Pupil Ratio States Yearwise')
-st.subheader('Apply Filters')
+st.subheader('Apply Filters-on Sidebar')
 
 ### --- LOAD DATAFRAME
 df = pd.read_csv('State UT and School-wise Pupil teacher ratio (PTR) for 2008-2022.csv')
@@ -25,10 +25,10 @@ level_value=df_unpivot['Education_Level'].unique().tolist()
 ratio_value=df_unpivot['Ratio'].unique().tolist()
 
 
-ratio_selection = st.sidebar.slider('Ratio:',
-                        min_value= min(ratio_value),
-                        max_value= max(ratio_value),
-                        value=(min(ratio_value),max(ratio_value)))
+# ratio_selection = st.sidebar.slider('Ratio:',
+#                         min_value= min(ratio_value),
+#                         max_value= max(ratio_value),
+#                         value=(min(ratio_value),max(ratio_value)))
 
 
 
@@ -55,14 +55,13 @@ if not year_selection:
 
 
 
-level_selection = st.sidebar.multiselect('Levels:',
-                                    level_value,
-                                    default=level_value)
+# level_selection = st.sidebar.multiselect('Levels:',
+#                                     level_value,
+#                                     default=level_value)
 
-
+ #(df_unpivot['Ratio'].between(*ratio_selection)) &(df_unpivot['Year'].isin(year_selection))&\ 
 # --- FILTER DATAFRAME BASED ON SELECTION
-mask = (df_unpivot['Ratio'].between(*ratio_selection)) & (df_unpivot['Year'].isin(year_selection))&\
-(df_unpivot['States/Union Territories'].isin(states_selection))& (df_unpivot['Year'].isin(year_selection))
+mask =(df_unpivot['States/Union Territories'].isin(states_selection))& (df_unpivot['Year'].isin(year_selection))
 
 # mask1 = (df[' Primary (1 to 5)'].between(*ratio_selection)) & (df['Year'].isin(year_selection))&\
 # (df['States/Union Territories'].isin(states_selection))

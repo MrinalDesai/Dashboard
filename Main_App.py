@@ -38,7 +38,7 @@ import streamlit as st
 # st.markdown(page_bg_img, unsafe_allow_html=True)
 # --- PAGE SETUP ---
 about_page = st.Page(
-    "about_me.py",
+    "1_about_me.py",
     title="About Me",
     #icon=":material/account_circle:",
     default=True,
@@ -56,8 +56,8 @@ project_1_page = st.Page(
     #icon=":material/bar_chart:",
 )
 project_2_page = st.Page(
-    "3_map.py",
-    title="🗺️Map🗺️",
+    "3_Map1.py",
+    title="🗺️Map:Pupil/Teacher-Statewise🗺️",
     #icon=":material/smart_toy:",
 )
 

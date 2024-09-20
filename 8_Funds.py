@@ -8,6 +8,14 @@ from plotly.subplots import make_subplots
 st.set_page_config(page_title="Govt. Funding💵",
                    page_icon="💵",
                    )
+st.header('Government Funding for Teacher Training-Under utilisation')
+
+st.write("""Govt of India has under Samgra Shiksha Abhiyaan allocated a sizable amount for Teacher Training.
+         But a lot of it remains unutilized.Some of It is yet to be disbursed.
+
+         Below figures are in Crores and Give Money allocated to states as well as Overall.
+         
+         """)
 
 
 df_sam_sik=pd.read_csv(f'funds/Year-wise Funds Disbursed for Teacher Training under Samagra Shiksha from 2018-19 to 2020-21.csv')
@@ -29,7 +37,7 @@ fig_sam_sik = go.Figure(data=[go.Table(
 ])
 # Add fig_subure title
 fig_sam_sik.update_layout(
-    title_text="Year-wise Funds Disbursed for Teacher Training under Samagra Shiksha from 2018-19"
+    title_text="Funds Disbursed for Teacher Training under Samagra Shiksha from 2018-21"
 )
 st.plotly_chart(fig_sam_sik)
 
@@ -54,7 +62,7 @@ fig_fin_sup = go.Figure(data=[go.Table(
 ])
 # Add fig_subure title
 fig_fin_sup.update_layout(
-    title_text="Apprvd Fin. Support for Teachers(Elementary/Secondary Schools)by Samagra Shiksha(2021-22)",
+    title_text="Aprvd Fin. Support-Teachers(Elem./Sec. Schools)Samagra Shiksha(2021-22)",
      autosize=False,
     width=1000,
     height=1000,
@@ -86,7 +94,7 @@ fig_fin_Expen = go.Figure(data=[go.Table(
 ])
 # Add fig_subure title
 fig_fin_Expen.update_layout(
-    title_text="Apprvd Fin. Support for Teachers(Elementary/Secondary Schools)by Samagra Shiksha(2021-22)",
+    title_text="Apprvd Fin. Supprt-Teachers(Elem/Sec Schools)Samagra Shiksha(2021-22)",
      autosize=False,
     width=1000,
     height=350,
@@ -95,3 +103,10 @@ fig_fin_Expen.update_layout(
     margin=go.layout.Margin(l=50, r=50, b=100, t=100, pad=4),
 )
 st.plotly_chart(fig_fin_Expen)
+
+
+st.subheader("Summary:")
+st.write("""
+Above stats indicate the only 50% of Funds allocated have been utilised. 
+         
+         """)

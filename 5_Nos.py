@@ -6,6 +6,16 @@ import plotly.graph_objects as go
 
 st.set_page_config(page_title='👩🏻‍🏫Teaching landscape',page_icon="👩🏻‍🏫",)
 st.header('Data About Teachers')
+st.write("""
+        Despite the Teacher Shortage a Lot of Vacancies Accross Institutes Arise.
+         Below Statistics Reveal that Teachere hiring remains a Challange despite govt effort and Funding. Around 14 Percent Remained Vacant.
+         .India has more than a Lakh Single techer Schools.Below Stats give a Clear Picture as to where India Stands in Teaching Arena.
+
+         Central Universities have still a lot of Vacncies desipite hiring AdHoc/Guest/Contract basis Posts.
+         
+""")
+st.subheader("#️⃣Teacher Distibution Accross States 📌 ", divider="gray")
+st.write("""""")
 st.subheader('Apply Filters')
 
 df_nos_state= pd.read_csv(f'nos/StateUT-wise Number of Teachers-Categories.csv')

@@ -12,6 +12,8 @@ streamlit-folium==0.22.0
 streamlit-pdf-viewer==0.0.18
 matplotlib==3.7.5
 python-dotenv==1.0.1
+geopandas==0.13.2
+fiona==1.9.6
 
 
 
