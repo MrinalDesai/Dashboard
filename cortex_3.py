@@ -18,9 +18,14 @@ import streamlit as st
 from dotenv import load_dotenv
 import os
 load_dotenv()
-PASSWORD = os.getenv('PASSWORD')
-USER2 = os.getenv('USER2')
-ACCOUNT2 = os.getenv('ACCOUNT2')
+# PASSWORD = os.getenv('PASSWORD')
+# USER2 = os.getenv('USER2')
+# ACCOUNT2 = os.getenv('ACCOUNT2')
+
+PASSWORD = st.secrets["SPASSWORD"]
+USER2 = st.secrets['SUSER2'] 
+ACCOUNT2 = st.secrets['SACCOUNT2'] 
+
 
 ############################################################
 

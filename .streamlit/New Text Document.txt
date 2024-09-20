@@ -1,0 +1,7 @@
+SPASSWORD="passSNOW@1234"
+SUSER2="mrinalsnow2"
+SACCOUNT2="sibsego-vub12130"
+
+
+SUSER1="mrinalsnow1"
+SACCOUNT1="sltfmgk-dp79513"

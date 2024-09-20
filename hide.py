@@ -6,3 +6,9 @@ PASSWORD = os.getenv('PASSWORD')
 
 # Example usage
 print(f'SECRET_KEY: {PASSWORD}')
+
+import streamlit as st
+
+
+
+print(st.secrets["SPASSWORD"])
