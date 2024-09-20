@@ -17,8 +17,8 @@ print(st.secrets["SPASSWORD"])
 # ACCOUNT1 = os.getenv('ACCOUNT1')
 
 PASSWORD = st.secrets["SPASSWORD"]
-USER2 = st.secrets['SUSER2'] 
-ACCOUNT2 = st.secrets['SACCOUNT2'] 
+USER1 = st.secrets['SUSER2'] 
+ACCOUNT1 = st.secrets['SACCOUNT2'] 
 #########################################
 st.set_page_config(page_title="Live Data",
                    page_icon="📥",
