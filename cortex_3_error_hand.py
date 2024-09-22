@@ -234,5 +234,4 @@ else:
                     btnResult = st.form_submit_button('View Report')
 
                     if btnResult:
-                     
                         pdf_viewer("udise_21_22.pdf")
