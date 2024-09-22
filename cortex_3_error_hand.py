@@ -229,5 +229,10 @@ else:
 
 
             st.subheader("📄Report on UNIFIED DISTRICT INFORMATION SYSTEM FOR EDUCATION 2021-22📄:Wait till it loads")
+            with st.form("Input"):
+                    # queryText = st.text_area("SQL to execute:", height=3, max_chars=None)
+                    btnResult = st.form_submit_button('View Report')
 
-            pdf_viewer("udise_21_22.pdf")
+                    if btnResult:
+                     
+                        pdf_viewer("udise_21_22.pdf")

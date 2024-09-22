@@ -13,7 +13,7 @@ st.set_page_config(page_title="Internet Infrastructure",
 st.header('Lack of Digital Infrastructure in Schools for Digital Learning and PeerLearning')
 
 st.subheader("School Resources and Peer Learning")
-st.write("""\n Despite Govt emphasis on Digitisation only 30-40% percent of Govt Scoold have Laptops/ Pcs for learning 
+st.write("""\n Despite Govt emphasis on Digitisation only 30-40% percent of Govt Schools have Laptops/ Pcs for learning 
          and less than 25% Mobile for Education Purposes.
 
          \nIn the “Integrated education” model “whenever possible, students with disabilities attend a regular school”. 

@@ -81,9 +81,17 @@ project_12_page = st.Page(
 )
 
 
+project_14_page = st.Page(
+    "14_Insights_Recommendation.py",
+    title="💡Insights",
+    
+)
 
-
-
+project_15_page = st.Page(
+    "15_Blended_learning.py",
+    title="📚Blended Learning",
+    
+)
 
 
 # --- NAVIGATION SETUP [WITH SECTIONS]---
@@ -91,9 +99,9 @@ pg = st.navigation(
     {
         "Info": [about_page],
         "Teacher Stats": [project_1_page, project_2_page,project_9_page,project_5_page,project_12_page],
-        "Solution": [project_8_page, project_6_page,project_10_page,project_7_page,project_11_page],
+        "Solution": [project_8_page, project_6_page,project_10_page,project_7_page,project_11_page,project_15_page],
         "AI": [ project_3_page],
-         "Final Section": [project_4_page,],
+         "Final Section": [project_4_page,project_14_page],
 
         # "Info": [about_page],
         # "Teacher Stats": [project_1_page, project_2_page,project_3_page],

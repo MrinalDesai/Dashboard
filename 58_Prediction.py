@@ -15,7 +15,7 @@ st.subheader('Lets see how many Teachers we will need to achieve our desired Pup
 st.write('''We have created a synthetic dataset using 
          Data gov and India Economic Monitor Dataset from Marketplace.
          Assuming Indian Population grows at a modest rate of 0.676 percent and our teacher /pupil ratio
-         remains steady at around 21.36 pecent we will use simpple Math to Predict Teacher Shortage.
+         remains steady at around 21.36 pecent we will use simple Math to Predict Teacher Shortage.
          Also Teacher Manpower is assumed to grow at a rate of 2%
          
          ''')

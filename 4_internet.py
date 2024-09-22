@@ -9,7 +9,7 @@ st.set_page_config(page_title="Internet landscape",
 
 
 st.header('Trends In Internet Landscape')
-st.write("""Online Learning is the best way to compensate for the low Pupil Teacher Ratio
+st.write("""Online Learning is the best way to compensate for the high Pupil Teacher Ratio
          Internet connectivity in India is on the rise. With govenment recognising its importance and also 
          private Players playing an Active part the feasability of Online Platforms becomes even more viable.
          BSNL/MTNL lags Behind the private Players but active Goventment Funding can reduce the Gap.

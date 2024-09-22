@@ -8,7 +8,7 @@ import geopandas as gpd
 
 st.header('Student👩🏻‍🎓 to Teacher👨🏻‍🏫 Distribution Across States')
 st.write("""Select the year to view the Distribution Accross states. Hover over the state to Find Individual Nos
-         and select Primary-Higer Secondary from the Map Layers
+         and select Primary-Higher Secondary from the Map Layers
          """)
 
 fname = 'states_india.geojson'

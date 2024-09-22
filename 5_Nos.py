@@ -8,8 +8,8 @@ st.set_page_config(page_title='👩🏻‍🏫Teaching landscape',page_icon="�
 st.header('Data About Teachers')
 st.write("""
         Despite the Teacher Shortage a Lot of Vacancies Accross Institutes Arise.
-         Below Statistics Reveal that Teachere hiring remains a Challange despite govt effort and Funding. Around 14 Percent Remained Vacant.
-         .India has more than a Lakh Single techer Schools.Below Stats give a Clear Picture as to where India Stands in Teaching Arena.
+         Below Statistics Reveal that Teacher hiring remains a Challange despite govt effort and Funding. Around 14 Percent Remained Vacant.
+         India has more than a Lakh Single techer Schools.Below Stats give a Clear Picture as to where India Stands in Teaching Arena.
 
          Central Universities have still a lot of Vacncies despite hiring AdHoc/Guest/Contract basis Posts.
          

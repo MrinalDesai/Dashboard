@@ -45,7 +45,7 @@ fig_df_train  = go.Figure(data=[go.Table(
 ])
 # Add fig_subure title
 fig_df_train.update_layout(
-    title_text="Programme-wise Number of Elementary, Secondary and Pre-primary Teachers Trained so far under NISHTHA Training Programme"
+    title_text="Programme-wise Teachers Trained under NISHTHA Training Programme"
 )
 
 st.plotly_chart(fig_df_train)
