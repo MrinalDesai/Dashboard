@@ -73,11 +73,7 @@ def translate(user_text):
     return translation
 
 
-# Define the main function
 
-# user_text = """
-#         
-#     """
 
 user_text1 = """
         Keep up the good Work. Loved the information
@@ -99,10 +95,10 @@ user_text1 = """
         #     f"ExtractAnswer() Snowflake Cortex LLM function result:\n{answer_result}\n"
         # )
 
-sentiment_result = sentiment(user_text1)
-print(
-    f"Sentiment() Snowflake Cortex LLM function result:\n{sentiment_result}\n"
-)
+# sentiment_result = sentiment(user_text1)
+# print(
+#     f"Sentiment() Snowflake Cortex LLM function result:\n{sentiment_result}\n"
+# )
 
         # translation_result = translate(user_text)
         # print(
@@ -185,7 +181,7 @@ if submit:
 
     
 
-    #INSERT INTO POLL (rating,review) VALUES ('Mango','Reeves');
+    
     query_INS="INSERT INTO POLL (rating,review) VALUES ('"+rating+"','"+review+"');"
     ctx.cursor().execute('USE SENTIMENT_DATA.PUBLIC')
     ctx.cursor().execute(query_INS)

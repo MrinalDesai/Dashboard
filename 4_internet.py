@@ -39,16 +39,13 @@ service_provider = df_speed['Service Provider'].unique().tolist()
 circle = df_speed['Circle'].unique().tolist()
 
 
-# service_provider_selection = st.sidebar.multiselect('Service Provider:',
-#                                     service_provider,
-#                                     default='JIO')
+
 
 circle_selection=st.multiselect('States:',
                                     circle,
                                     default='INDIA')
 
-# if not service_provider_selection:
-#     service_provider_selection=['JIO']
+
 
 if not circle_selection:
     circle_selection=['INDIA']
@@ -57,23 +54,18 @@ if not circle_selection:
 mask_speed = (df_speed['Circle'].isin(circle_selection)) #(df_speed['Service Provider'].isin(service_provider_selection))&\
 
 
-# number_of_result = df_speed[mask_speed].shape[0]
-# st.markdown(f'*Available Results: {number_of_result}*')
+
 
 # --- GROUP DATAFRAME AFTER SELECTION.grou
 df_speed_grouped = df_speed[mask_speed].groupby(['Service Provider','Year'],as_index=False)[['Data Speed(Mbps)']].mean()
 df_speed_grouped['Data Speed(Mbps)']=df_speed_grouped['Data Speed(Mbps)'].astype(int)
-#df_grouped = df_grouped.rename(columns={'Age': 'Votes'})
+
 df_speed_grouped = df_speed_grouped.reset_index()
 
 
 
 fig_speed = px.bar(df_speed_grouped, x="Service Provider", y="Data Speed(Mbps)", 
              color="Year", text='Data Speed(Mbps)',barmode = 'group')
-# texts = ["Ratio"]
-# for i, t in enumerate(texts):
-#     fig.data[i].text = t
-#     fig.data[i].textposition = 'outside'
 
 st.plotly_chart(fig_speed)
 
@@ -398,7 +390,7 @@ st.plotly_chart(fig_bsnl_sub)
 
 
 df_bsnl_pl = pd.read_csv(f'internet/table/PSU-wise ProfitLoss of Bharat Sanchar Nigam Limited (BSNL) and Mahanagar Telephone Nigam Limited (MTNL) from 2018-19 to 2020-21.csv')
-#df_bsnl_sub['Number of Subscribers']=round(df_bsnl_sub['Number of Subscribers']/10000000,2)
+
 fig_bsnl_pl = go.Figure(data=[go.Table(
     header=dict(values=list(df_bsnl_pl.columns),
                 fill_color='darkturquoise',
@@ -426,7 +418,7 @@ df_bsnl_funds = pd.read_csv(f'internet/table/Year-wise Details of Funds given to
 fig_bsnl_funds = go.Figure(data=[go.Table(
     header=dict(values=list(df_bsnl_funds.columns),
                 fill_color='darkturquoise',
-                # fill_color='#b9e2ff',
+                
                 line_color='darkslategray',
                 font = dict(family="Arial", size=14, color="black"),
                 align='left'),

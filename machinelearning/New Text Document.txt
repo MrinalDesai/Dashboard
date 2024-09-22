@@ -1,0 +1,21 @@
+QHRCAJP
+ZQB54406
+MRINALSNOW -  US East (N. Virginia)
+SLTFMGK
+DP79513
+MRINALSNOW1 -  Asia Pacific (Mumba
+
+SELECT DISTINCT category FROM ECONOMY.IDH_DATA 
+
+SELECT DISTINCT subcategory FROM ECONOMY.IDH_DATA where category in ('National Accounts');
+
+SELECT * FROM ECONOMY.IDH_DATA where category in ('Global Indicators') and subcategory in ('Rate of Population Change')
+
+
+SELECT * FROM ECONOMY.IDH_DATA where category in ('Global Indicators') and subcategory in ('Population Density') AND title in ('Population Density - India');
+SELECT * FROM ECONOMY.IDH_DATA where category in ('Global Indicators') and subcategory in ('Rate of Population Change') AND title in ('Rate of Population Change - India');
+
+
+SELECT DISTINCT subcategory FROM ECONOMY.IDH_DATA where category in ('National Accounts');
+
+SELECT * FROM ECONOMY.IDH_DATA where category in ('National Accounts') and subcategory in ('GDP') 

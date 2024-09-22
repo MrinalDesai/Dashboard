@@ -95,16 +95,7 @@ NIL=folium.features.GeoJson(nilpop,
         style=("background-color: white; color: #333333; font-family: arial; font-size: 12px; padding: 10px;")))
 
 
-# folium.features.GeoJson('states_india.geojson', name="LSOA Code",zoom_on_click=True,
-#                            popup=folium.features.GeoJsonPopup(fields=['st_nm',])).add_to(m)
 
-
-
-# folium.Choropleth(name="Layer 2",
-#     geo_data=india_states,
-#     fill_opacity=0.3,
-#     line_weight=2,
-# ).add_to(m)
 m.add_child(NIL)
 m.keep_in_front(NIL)
 

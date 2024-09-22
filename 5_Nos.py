@@ -11,7 +11,7 @@ st.write("""
          Below Statistics Reveal that Teachere hiring remains a Challange despite govt effort and Funding. Around 14 Percent Remained Vacant.
          .India has more than a Lakh Single techer Schools.Below Stats give a Clear Picture as to where India Stands in Teaching Arena.
 
-         Central Universities have still a lot of Vacncies desipite hiring AdHoc/Guest/Contract basis Posts.
+         Central Universities have still a lot of Vacncies despite hiring AdHoc/Guest/Contract basis Posts.
          
 """)
 st.subheader("#️⃣Teacher Distibution Accross States 📌 ", divider="gray")
@@ -81,7 +81,8 @@ fig1 = px.bar(df_grouped, x='India/State /UT', y='Value',title="Teachers Distrib
 
 st.plotly_chart(fig1)
 
-
+st.subheader('Vacancies')
+st.write('Govt has not been successful in filling up a lot of vacant positions.')
 
 df_nos_cu= pd.read_csv(f'nos/Cen_Uni_Data.csv')
 
@@ -196,5 +197,6 @@ fig_single.update_layout(
     title_text="StateUTs-wise Single Teacher Schools"
 )
 
-
+st.subheader('Single Teacher Schools')
+st.write('Single Teacher Schools are on the rise.These highlight the fact that we cannot ignore the plight of Students for long.')
 st.plotly_chart(fig_single)

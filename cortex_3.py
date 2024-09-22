@@ -36,16 +36,7 @@ st.set_page_config(page_title="Lets ask AI",
 # Load environment variables from .env
 # load_dotenv()
 
-# # connection_params = {
-# #     "account": "sibsego-vub12130",
-# #     "user": "mrinalsnow2",
-# #     "password": "passSNOW@1234",
-# #     "role": config.get(cs[0], 'defaultrole'),  # optional
-# #     "warehouse": config.get(cs[0], 'defaultwarehouse'),  # optional
-# #     "database": config.get(cs[0], 'defaultdatabase'),  # optional
-# #     "schema": config.get(cs[0], 'defaultschema')  # optional
 
-# }
 
 connection_params = {
     "account": ACCOUNT2,
@@ -143,7 +134,7 @@ st.write("""Below 📃Report is used to provide Context""")
 with st.expander("UNIFIED DISTRICT INFORMATION SYSTEM FOR EDUCATION PLUS (UDISE+)"):
        st.image("Report_Image.png")
   
-st.write("""You can ask questions and decide if you want to use your documents for context or allow the model to create their own response.""")
+st.write("""You can ask questions and decide if you want to use Govt Report for context or allow the model to create their own response.""")
 
 st.subheader("🚩👣Steps to Use")
 st.write("""🚩Select your Model on the Left Pane.Check if you want to use the Document as Context""")

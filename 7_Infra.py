@@ -10,9 +10,9 @@ st.set_page_config(page_title="Internet Infrastructure",
                    page_icon="🌍",
                    )
 
-st.header('Infrastructure in Schools for Digital Learning and PeerLearning')
+st.header('Lack of Digital Infrastructure in Schools for Digital Learning and PeerLearning')
 
-st.subheader("School Resources")
+st.subheader("School Resources and Peer Learning")
 st.write("""\n Despite Govt emphasis on Digitisation only 30-40% percent of Govt Scoold have Laptops/ Pcs for learning 
          and less than 25% Mobile for Education Purposes.
 
@@ -20,7 +20,7 @@ st.write("""\n Despite Govt emphasis on Digitisation only 30-40% percent of Govt
          The emphasis, however, is upon the student to fit the system rather than the system to adapt to meet the educational needs of a student.
          This too is Lacking.
 
-         \nPeer learning is when students teach each other.Peer learning has emerged as a valuable pedagogical approach in the 
+         \n:blue[Peer learning] is when students teach each other.Peer learning has emerged as a valuable pedagogical approach in the 
          Indian education system, encouraging collaborative learning and knowledge-sharing among students. 
          Peer learning has gained significant recognition in education across the globe, promoting collaborative 
          learning and enhancing academic performance.
@@ -119,8 +119,8 @@ df_Peer,
 df_Peer_Per] ,ignore_index = True)
 
 cat = df_infra['Category'].unique().tolist()  
-
-cat_sel=st.selectbox('Category:',cat,placeholder="Select a Option to Display Data")
+default_ix = cat.index("Peer Learning Percentage")
+cat_sel=st.selectbox('Category:',cat,placeholder="Select a Option to Display Data",index=default_ix)
 
 
 mask_cat = (df_infra['Category']==cat_sel) 
