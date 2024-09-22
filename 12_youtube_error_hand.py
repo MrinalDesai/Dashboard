@@ -88,7 +88,7 @@ else:
         
         )
         
-        ctx.cursor().execute('USE INDIA_SOCIAL_IMPACT_DATA_SET.PUBLIC')
+        ctx.cursor().execute('USE YOUTUBE_PROFILES__POSTS__COMMENTS.PUBLIC')
         #cur = ctx.cursor().execute(query)
 
 
