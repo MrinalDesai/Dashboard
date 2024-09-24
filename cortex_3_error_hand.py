@@ -185,7 +185,14 @@ else:
             st.write("""Below 📃Report is used to provide Context""")
             with st.expander("UNIFIED DISTRICT INFORMATION SYSTEM FOR EDUCATION PLUS (UDISE+)"):
                 st.image("Report_Image.png")
-            
+            # st.subheader("📄Report on UNIFIED DISTRICT INFORMATION SYSTEM FOR EDUCATION 2021-22📄:Wait till it loads")
+            # with st.form("Input"):
+            #         # queryText = st.text_area("SQL to execute:", height=3, max_chars=None)
+            #         btnResult = st.form_submit_button('View Report')
+
+            #         if btnResult:
+            #             pdf_viewer("udise_21_22.pdf")
+            st.write("https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/UDISE%2B2020_21_Booklet.pdf")
             st.write("""You can ask questions and decide if you want to use Govt Report for context or allow the model to create their own response.""")
 
             st.subheader("🚩👣Steps to Use")
@@ -228,10 +235,4 @@ else:
                 display_response (question, model, use_rag)
 
 
-            st.subheader("📄Report on UNIFIED DISTRICT INFORMATION SYSTEM FOR EDUCATION 2021-22📄:Wait till it loads")
-            with st.form("Input"):
-                    # queryText = st.text_area("SQL to execute:", height=3, max_chars=None)
-                    btnResult = st.form_submit_button('View Report')
-
-                    if btnResult:
-                        pdf_viewer("udise_21_22.pdf")
+            
