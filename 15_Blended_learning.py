@@ -17,15 +17,20 @@ programs.
          to take advantage of this is to travel. For example, if you’re studying abroad and want to get a 
          job, online education is a great choice. 
          
-         \nIt gives  student acess to more teachers accross geographies.
+         \n✅It gives  student access to more trained teachers accross geographies.
+
+         \n✅It gives Trained teachers acess to more no of Students accross geographies.
          
-         \nThis means that states with Low/Teacher Student Ratios can access teaching manpower from other places
+         \n✅This means that states with Low/Teacher Student Ratios can access teaching manpower from other places
          which have larger pool of teachers. """)
 
 st.image("Blended_Learning.png")
 st.subheader("A mixture of Online and offline")
 st.write("""\n
-\n Teachers need to spend more time in Teaching Activities. Blended learning does exactly this
+\n Teachers need to spend more time in Teaching Activities. 
+Only 19% of time is spent by Teachers doing actual Teaching.Blended learning does exactly negates this.
+It saves commute time. Teachers only attend to student realted issues and dont deliver lectures repeatedly.
+It gives more one-on=one time.
 It is an instructional methodology, a teaching and learning approach that combines faceto-face classroom methods with computer mediated activities to deliver instruction. This
 pedagogical approach means a mixture of face-to-face and online activities and the
 integration of synchronous and asynchronous learning tools, thus providing an optimal
@@ -50,7 +55,10 @@ between online instructions, which offers the interactive, tech-based learning,
 individualized pacing, and privacy that keep students continuously engaged and
 motivated, and teacher-led instruction, which personalizes the learning experience and
 adds the human elements of encouragement, compassion, and caring guidance that only
-teachers can give. """)
+teachers can give.
+\n✅It Boosts Teacher Efficiency and Flexibility.
+ ✅It is Cost effective..
+          """)
 
 st.subheader("Flipped classroom programme") 
 
