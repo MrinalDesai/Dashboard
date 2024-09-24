@@ -5,7 +5,7 @@ from PIL import Image
 
 st.set_page_config(page_title='👨🏻‍🏫Teacher to 👩🏻‍🎓Pupil Ratio',page_icon="👨🏻‍🏫👩🏻‍🎓")
 st.header('Student Pupil Ratio States Yearwise')
-st.subheader('Apply Filters-on Sidebar')
+st.subheader('Apply Filters')
 st.write('''In this section we have explored Teacher to Student Ratio of India as well 
          as individual States. Though the numbers are improving with Population growth
          and Resource Allocation we Cannot cconsider this as a good Situation''')
@@ -32,14 +32,24 @@ ratio_value=df_unpivot['Ratio'].unique().tolist()
 
 
 
-year_selection = st.sidebar.multiselect('Year:',
+# year_selection = st.sidebar.multiselect('Year:',
+#                                     year,
+#                                     default='2021-2022')
+
+st.write("Select Multiple options to Find the Average over the years or accross States")
+
+year_selection = st.multiselect('Year:',
                                     year,
                                     default='2021-2022')
 
 if not year_selection:
     st.write("Select a Year")
 
-states_selection = st.sidebar.multiselect('States:',
+# states_selection = st.sidebar.multiselect('States:',
+#                                     states,
+#                                     default='INDIA')
+
+states_selection = st.multiselect('States:',
                                     states,
                                     default='INDIA')
 
