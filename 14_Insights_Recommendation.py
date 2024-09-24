@@ -45,7 +45,7 @@ st.write("""\n1.Time allocations. About 58 percent of the school day is allocate
          lead to dimishing returns; quite the opposite, teachers who had more allocated 
          time also had higher engagement rates
 
-        \nThe best three solutions are:
+        \nThe best solutions are:
       
          \n✅Peer learning: This reduced the burden on Teachers.
 

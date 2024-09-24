@@ -25,11 +25,11 @@ programs.
          which have larger pool of teachers. """)
 
 st.image("Blended_Learning.png")
-st.subheader("A mixture of Online and offline")
+st.subheader("Blended Learning-A mixture of Online and Offline")
 st.write("""\n
 \n Teachers need to spend more time in Teaching Activities. 
 Only 19% of time is spent by Teachers doing actual Teaching.Blended learning does exactly negates this.
-It saves commute time. Teachers only attend to student realted issues and dont deliver lectures repeatedly.
+It saves commute time. Teachers only attend to student related issues and dont deliver lectures repeatedly.
 It gives more one-on=one time.
 It is an instructional methodology, a teaching and learning approach that combines faceto-face classroom methods with computer mediated activities to deliver instruction. This
 pedagogical approach means a mixture of face-to-face and online activities and the
