@@ -1,11 +1,28 @@
 import streamlit as st
 
-st.set_page_config(page_title="Blended Learning/Flipped classroom programme",
-                   page_icon="📚",
-                   )
+st.set_page_config(page_title="Online/Blended Learning/Flipped classroom programme",
+                   page_icon="📚",)
+st.header('Online/Blended Learning/Online/Hybrid:')                 
+st.image("type_online.jpg")
+st.subheader("Fully Online Learning")
 
-st.header('Blended Learning:')
+st.write("""Online learning refers to instruction that is delivered electronically through various multimedia and
+Internet platforms and applications. It is used interchangeably with other terms such as web-based 
+learning, e-learning, computer-assisted instruction, and Internet-based learning.It offers a wide selection of 
+programs.
+         \nOnline education enables you to study or teach from anywhere in the world. This means there’s no
+          need to commute from one place to another, or follow a rigid schedule. On top of that, 
+         not only do you save time, but you also save money, which can be spent on other priorities. 
+         The virtual classroom is also available anywhere there’s an internet connection, and a good way 
+         to take advantage of this is to travel. For example, if you’re studying abroad and want to get a 
+         job, online education is a great choice. 
+         
+         \nIt gives  student acess to more teachers accross geographies.
+         
+         \nThis means that states with Low/Teacher Student Ratios can access teaching manpower from other places
+         which have larger pool of teachers. """)
 
+st.image("Blended_Learning.png")
 st.subheader("A mixture of Online and offline")
 st.write("""\n
 \n Teachers need to spend more time in Teaching Activities. Blended learning does exactly this
@@ -34,7 +51,10 @@ individualized pacing, and privacy that keep students continuously engaged and
 motivated, and teacher-led instruction, which personalizes the learning experience and
 adds the human elements of encouragement, compassion, and caring guidance that only
 teachers can give. """)
-st.subheader("Flipped classroom programme")        
+
+st.subheader("Flipped classroom programme") 
+
+st.image("Traditional-classroom-vs-flipped.png")
 st.write("""\nIn a flipped classroom programme, students would be encouraged to access
 digital learning materials via a cloud-based learning platform during their own time.
 Resources such as video lectures, podcasts, recordings and articles would be provided in

@@ -13,6 +13,7 @@ st.set_page_config(page_title="Internet Infrastructure",
 st.header('Lack of Digital Infrastructure in Schools for Digital Learning and PeerLearning')
 
 st.subheader("School Resources and Peer Learning")
+
 st.write("""\n Despite Govt emphasis on Digitisation only 30-40% percent of Govt Schools have Laptops/ Pcs for learning 
          and less than 25% Mobile for Education Purposes.
 
@@ -33,6 +34,8 @@ st.write("""\n Despite Govt emphasis on Digitisation only 30-40% percent of Govt
 
          \nPeer Learning has become a good Solution to compensate for Lack of Teachers
 """)
+
+st.image("peer.png")
 
 df_CF=pd.read_csv(f'infra/per/by Management and Availability of Computer Facility during 2021-22.csv')
 df_CFP=pd.read_csv(f'infra/per/by Management and Availability of Computer Facility during 2021-22_Per.csv')

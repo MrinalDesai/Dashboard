@@ -52,7 +52,8 @@ st.write("""\n1.Time allocations. About 58 percent of the school day is allocate
          \n✅Flipped Learning Model:This frees up time in class for teachers to support students in activities, 
          lead discussions and facilitate engagement.
       
-         \n✅Online learning: It remains another best alternative considering reach and access.
+         \n✅Online learning: It remains another best alternative considering reach and access.It Imroved teacher to student
+         ratio by giving students access to more teachers online accross geographies and time.
 
          \n✅Blended learning: It maximised Teaching efficiencey so that Teachers can focus more time engaing in
          Critical aspects of learning rather than just Delivering Lectures.
